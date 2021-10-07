@@ -62,3 +62,8 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 ## Wireframes
 
+### _Home Page_
+
+      <img src="wireframe/home-page.png">
+
+      
