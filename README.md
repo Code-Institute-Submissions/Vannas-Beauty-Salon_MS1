@@ -40,11 +40,25 @@ The site is presented in a minimalist but effective way, providing all the infor
 ## Structure
 
 - Header  
+    - Salon logo positioned left, social link right
+    - Appears on every page
+
+- Nav bar
+    - Appers on every page so users can esily navigate throught the site
+
+- Footer
+    - Appears on every page with a contact information and social links
+ - Home Page
+    - Hero image - shows the interior design of the salon
+    - About Us - located below the Hero image, allows users to get more informactions about the salon
+    - Testimonials - just below the "About Us" section, grouped horizontally next to each other, allow potential client to see the reviews from current/previous clients, which will help them trust the services offered by the salon
+    - Contact Us - provides information about salon opening hours, phone number, email address and a link that leads the user to "Contact Us" page where the user can fill out a form to get in touch with any inquiries they may have
     
-    
+- Services & Prices - allows the user to find out the services and their prices offered by the salon
+
+- Our Team - allows the user to get to know the salon team
+
+- Gallery - allows the the user to see images of the the nail design and perhaps get inspired. Also the "Before and After" section, the user san see the results of the final treatments nails, madotherapy and facial treatments.
 
 ## Wireframes
 
-- Mobile
-- Tablet 
-- Desktop
