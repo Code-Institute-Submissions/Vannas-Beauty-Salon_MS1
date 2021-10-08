@@ -67,3 +67,10 @@ The site is presented in a minimalist but effective way, providing all the infor
   <p align="center">    
 <img src="wireframe/home-page.png" width="600" height="700">
 </p>
+
+### _Services & Prices_
+
+  <p align="center">    
+<img src="wireframe/services-prices.png" width="600" height="800">
+</p>
+
