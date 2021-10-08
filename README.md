@@ -62,17 +62,50 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 ## Wireframes
 
-### _Home Page_
 
-![Desktop](https://github.com/IrisSmok/MS1_Project/blob/main/wireframe/home-page.png) 
+### _Home Page_ 
+
+<p align="center">
+<img src="wireframe/home-page.png" width="600" height="700">
+</p>
 
 
 
 ### _Services & Prices_
 
-     
-
+<p align="center">
+<img src="wireframe/services-prices.png" width="600" height="900">
+</p>
 
 
 ### _OurTeam_
 
+<p align="center">
+<img src="wireframe/our-team.png" width="600" height="900">
+</p>
+
+### _Gallery_
+
+<p align="center">
+<img src="wireframe/gallery.png" width="600" height="900">
+</p>
+
+
+### _Contact Us_
+
+<p align="center">
+<img src="wireframe/contact-us.png" width="600" height="900">
+</p>
+
+
+### _Mobile View - Home Page_
+
+<p align="center">
+<img src="wireframe/mobile-home-page.png" width="400" height="1000">
+</p>
+
+### _Mobile View_
+
+<p align="center">
+<img src="wireframe/mobile-team-gallery-contact.png" width="1000" height="500">
+</p>
