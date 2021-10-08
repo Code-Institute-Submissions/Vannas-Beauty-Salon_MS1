@@ -35,6 +35,9 @@ The site is presented in a minimalist but effective way, providing all the infor
 - Easily visible salon contact infromation
 - Socil links in the header and footer of each page so user can follow the salon via social networks and be up to date with the latest information
 
+## Future Features
+
+- Online booking so that the client can quickly select the desired date from the calendar 
 
 
 ## Structure
@@ -107,5 +110,34 @@ The site is presented in a minimalist but effective way, providing all the infor
 ### _Mobile View_
 
 <p align="center">
-<img src="wireframe/mobile-team-gallery-contact.png" width="1000" height="600">
+<img src="wireframe/mobile-team-gallery-contact.png" width="1000" height="700">
 </p>
+
+## Surface
+
+- Design 
+    - Colors 
+
+- Typography
+    - Font
+
+- Imagery
+
+
+## Technologies Used
+
+- Languages
+- Programs
+
+## Testing
+- Validating 
+- User Story Testing
+- Tested Devices
+- Browsers
+ -Lighthouse
+
+## Bugs and Issues
+
+## Deployment
+
+## Credits
