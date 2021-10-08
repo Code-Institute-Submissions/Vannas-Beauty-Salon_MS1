@@ -107,5 +107,5 @@ The site is presented in a minimalist but effective way, providing all the infor
 ### _Mobile View_
 
 <p align="center">
-<img src="wireframe/mobile-team-gallery-contact.png" width="1000" height="500">
+<img src="wireframe/mobile-team-gallery-contact.png" width="1000" height="600">
 </p>
