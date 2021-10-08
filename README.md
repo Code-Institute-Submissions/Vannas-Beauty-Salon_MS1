@@ -64,13 +64,15 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 ### _Home Page_
 
-  <p align="center">    
-<img src="wireframe/home-page.png" width="600" height="700">
-</p>
+![Desktop](https://github.com/IrisSmok/MS1_Project/blob/main/wireframe/home-page.png) 
+
+
 
 ### _Services & Prices_
 
-  <p align="center">    
-<img src="wireframe/services-prices.png" width="600" height="800">
-</p>
+     
+
+
+
+### _OurTeam_
 
