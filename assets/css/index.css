@@ -55,20 +55,13 @@ body {
 #nav li {
     float: right;
     list-style-type: none;
-    margin-right: 20px;
     margin-top: 20px;
+    margin-right: 30px;
 }
 
 #header #nav {
     line-height: 75px;
 }
-
-/*#nav > ul {
-    list-style-type: none;  
-    display: inline;
-    text-decoration: none;
-    list-style-type: none;
-} */
 
 #nav a {
     
@@ -88,4 +81,29 @@ body {
     left: 20px;
     top: 110px;
     border-top: 1px solid #3a3a3a;
+    margin-right: 2.5em;
+    
+}
+
+/* hero image */
+
+#hero-outer{
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    top: 30px;
+
+
+}
+
+#hero-img {
+    height: 500px;
+    width: 100%;
+    background: url('../images/spa-smile1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+
 }
