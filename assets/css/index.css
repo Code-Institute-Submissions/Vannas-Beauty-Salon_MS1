@@ -117,6 +117,7 @@ body {
     border-radius: 10px;
     padding: 40px;
 
+
     
     
 }
@@ -134,4 +135,27 @@ body {
     padding-top: 30px;
     letter-spacing: 1px;
    
+   
+}
+
+/* Reviews */
+
+#reviews {
+    width: 100%;
+    margin-top: 10%;
+
+}
+
+#reviews div {
+    width: 20%;
+    height: 300px;
+    float: left;
+    text-align: center;
+    padding: 30px 20px 10px 20px;
+    margin-left: 9%;
+    
+}
+
+#reviews p {
+    margin-top: 20px;
 }
