@@ -33,7 +33,7 @@ The site is presented in a minimalist but effective way, providing all the infor
 - A galery with inspiring nail design and results of final treatments
 - Contact form so that clients can easily get i touch with the salon
 - Easily visible salon contact infromation
-- Socil links in the header and footer of each page so user can follow the salon via social networks and be up to date with the latest information
+- Socil links in the footer of each page so user can follow the salon via social networks and be up to date with the latest information
 
 ## Future Features
 
@@ -97,7 +97,7 @@ The site is presented in a minimalist but effective way, providing all the infor
 ### _Contact Us_
 
 <p align="center">
-<img src="wireframe/contact-us.png" width="600" height="900">
+<img src="wireframe/contact.png" width="600" height="900">
 </p>
 
 
@@ -128,6 +128,7 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 - Languages
 - Programs
+
 
 ## Testing
 - Validating 
