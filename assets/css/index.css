@@ -50,6 +50,7 @@ body {
 #nav {
     font-size: 110%;
     float: right; 
+    color: #252525;
 }
 
 #nav li {
@@ -70,10 +71,10 @@ body {
 }
 
 #nav a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #252525;
 }
 .active {
-    border-bottom: 1px solid #3a3a3a ;
+    border-bottom: 1px solid #252525;
 }
 
 #hr {
@@ -108,9 +109,29 @@ body {
 /* About Us */
 
 #about-us {
-    width: 700px;
-    text-align: center;
+    width: 800px;
     position: relative;
     top: 70px;
-    left: 27%;
+    left: 23%;
+    border: 1px solid #252525;
+    border-radius: 10px;
+    padding: 40px;
+
+    
+    
+}
+
+#about-us h2 {
+    text-align: center;
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    color: #252525;
+    
+}
+
+.about {
+    text-align: center;
+    padding-top: 30px;
+    letter-spacing: 1px;
+   
 }
