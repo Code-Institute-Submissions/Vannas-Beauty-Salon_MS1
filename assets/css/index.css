@@ -103,7 +103,14 @@ body {
     background: url('../images/spa-smile1.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    
-    
+}
 
+/* About Us */
+
+#about-us {
+    width: 700px;
+    text-align: center;
+    position: relative;
+    top: 70px;
+    left: 27%;
 }
