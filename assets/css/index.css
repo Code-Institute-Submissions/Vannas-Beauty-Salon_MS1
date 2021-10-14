@@ -16,36 +16,65 @@ body {
      color: #3a3a3a; 
      margin-left: 10%;
      margin-right: 10%;
+     margin-top: 1%;
 
 }
 
 /* heading and nav */
 
-#header {
-    flex-basis: 1;
+#header #nav {
+    flex-basis: 0;
     flex-grow: 1;
     max-width: 100%;
+    
+    
    }
     
 
+#header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 
-#logo {font-family: Lato, sans-serif;
-    letter-spacing: 4px;
-    color: #252525;
+#header li {
+    display: inline;
     float: left;
-    margin-top: 20px;
-    margin-left: 20px;
-    
-    }
-#logo-p {
+}
+
+#header p {
+    margin-left: 70px;
     font-family: Open Sans, sans-serif;
     font-weight: 300;
     font-size: 1rem;
     letter-spacing: normal;
-    margin-left: 70px;
-    
-
+    margin-top: -5px;
 }
+
+#header h1 {
+    margin-left: 20px;
+    font-family: Lato, sans-serif;
+    letter-spacing: 4px;
+    color: #252525;
+}
+
+/*
+#logo {
+    font-family: Lato, sans-serif;
+    letter-spacing: 4px;
+    color: #252525;
+    display: inline-block;
+  
+}
+
+#header span {
+    font-family: Open Sans, sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    letter-spacing: normal;
+    }
+*/
+
 
 #nav {
     font-size: 110%;
@@ -79,10 +108,12 @@ body {
 
 #hr {
     position: relative;
-    left: 20px;
-    top: 110px;
+    left: 1em;
+    top: 80px;
     border-top: 1px solid #3a3a3a;
-    margin-right: 2.5em;
+    margin-right: 2em;
+    
+    
     
 }
 
@@ -94,6 +125,7 @@ body {
     overflow: hidden;
     position: relative;
     top: 30px;
+
 
 
 }
@@ -117,8 +149,6 @@ body {
     border-radius: 10px;
     padding: 40px;
 
-
-    
     
 }
 
@@ -159,3 +189,67 @@ body {
 #reviews p {
     margin-top: 20px;
 }
+
+/* Contact - Home Page */
+
+#hr-2 {
+    border-top: 1px solid #3a3a3a;
+    position: relative;
+    top: 300px;
+    left: 1em;
+    right: 2em;
+    width: 100%;
+    
+}
+
+#contact h4 {
+    font-family: Lato, sans-serif;
+    text-transform: uppercase;
+    color:#252525;
+    letter-spacing: 1px;
+    float: left;
+    margin-left: 49%;
+    margin-right: 50%;
+    width: 50%;
+    margin-top: -15px;
+    
+}
+
+#contact-details {
+    float: left;
+    margin-left: 1em;
+    margin-left: 5%;
+}
+
+#contact-details a {
+    color: rgb(68, 138, 230);
+
+}
+
+#hours {
+    float: right;
+    margin-right: 5%;
+}
+
+.space-top {
+    margin-top: 8px;
+}
+
+.space {
+    margin-top: 5%;
+    
+}
+
+#hours th {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Lato, sans-serif;  
+    padding-bottom: 20px; 
+}
+
+.th-second {
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
