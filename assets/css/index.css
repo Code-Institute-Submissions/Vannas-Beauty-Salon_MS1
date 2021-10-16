@@ -64,24 +64,6 @@ body {
     color: #252525;
 }
 
-/*
-#logo {
-    font-family: Lato, sans-serif;
-    letter-spacing: 4px;
-    color: #252525;
-    display: inline-block;
-  
-}
-
-#header span {
-    font-family: Open Sans, sans-serif;
-    font-weight: 300;
-    font-size: 1rem;
-    letter-spacing: normal;
-    }
-*/
-
-
 #nav {
     font-size: 110%;
     float: right; 
@@ -232,7 +214,6 @@ body {
     background-position: center;
     width: 100%;
     overflow: hidden;
-    ;
     
 }
 
@@ -250,6 +231,7 @@ body {
 }
 
 .working-hours h3 {
+    text-align: center;
     text-transform: uppercase;
     font-family: Oswald, sans-serif;
     color: #252525;
@@ -299,6 +281,7 @@ body {
 }
 
 
+
 /* Footer */
 
 footer  {
@@ -335,4 +318,78 @@ footer  {
 
 .envelope {
     margin-left: 30px;
+}
+
+/* Services & Prices */
+
+#body-image {
+    float: left;
+    background: url('../images/green-spa.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    overflow: hidden;
+    margin-top: 1%;
+    
+}
+
+#services-prices {
+    background-color: rgba(185, 185, 182, 0.5);
+    margin: 5% 20%;
+    float: left;
+}
+
+#services-title {
+    float: left;
+    margin: 70px 50% 40px 46%;
+    width: 20%;
+}
+
+#facial-treatments, #body-treatments, #waxing-service, #massage-service, #pedicure-service, #manicure-service {
+    float: left;
+    display: inline;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.treatment { float: left;
+    padding:10px;
+            }
+
+.price { float: right;
+    padding:10px;
+            }
+
+#facial ul { list-style-type: none;}
+
+#body ul { list-style-type: none;}
+ 
+#waxing ul { list-style-type: none;}
+ 
+#massage ul { list-style-type: none;}
+#pedicure ul {
+    list-style-type: none;
+}
+#manicure ul { list-style-type: none;}
+
+#facial, #body, #waxing, #massage, #pedicure, #manicure {
+    padding: 10px 30px;
+}
+
+#facial-treatments, #body-treatments, #waxing-service, #massage-service, #pedicure-service, #manicure-service {
+    margin-top: 30px;
+}
+#manicure-service{
+    margin-bottom: 5%;
+}
+#facial li {
+    margin-top: 5px;
+}
+
+.gray {
+  float:left;
+  width: 100%;
+  margin-bottom: 5px;
 }
