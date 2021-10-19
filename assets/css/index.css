@@ -663,19 +663,31 @@ footer  {
 
 #contact-instruction {
     float:left;
-    width: 30%;
+    width: 35%;
     margin-left: 6%;
-   
 }
-
-.fa {
-    display: inline-block;
-    font-size: 200%;
-}
-   
-    
-
 
 #address-contact-page {
     margin: 8% 3%;
+}
+
+.fa-map-marker-alt {
+    font-size: 200%;
+    padding: 2%;
+}
+
+#address-directions {
+    width: 100%;
+}
+
+.address-details {
+    margin-left: 10%;
+}
+
+#form {
+    float: left;
+}
+
+#form input {
+    float: left;
 }
