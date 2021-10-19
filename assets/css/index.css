@@ -197,6 +197,7 @@ body {
     font-family: Lato, sans-serif;
     color: #252525;
     font-weight: 600;
+    font-size: 25px;
     font-style: italic;
     text-transform: uppercase;
     
@@ -218,8 +219,8 @@ body {
 }
 
 .address, .working-hours {
-    background-color: rgba(237, 243, 210, 0.5);
-    font-weight: 500;
+    background-color: rgba(237, 243, 210, 0.6);
+    font-size: 18px;
     color: #3a3a3a;
     width: 30%;
     height: 270px;
@@ -228,6 +229,7 @@ body {
     padding: 30px 0px 0px 10px;
     margin: 20px 1%;
 }
+
 
 .working-hours h3 {
     text-align: center;
@@ -342,20 +344,16 @@ footer  {
 
 #body-image {
     float: left;
-    background: url('../images/green-spa.jpg');
+    background: url('../images/price-background-spa.jpg');
     background-repeat: no-repeat;
     background-position:center;
     background-size:cover;
     overflow: hidden;
-    margin-top: 1%;
-    
-
-    
-    
+    margin-top: 1%; 
 }
 
 #services-prices {
-    background-color: rgba(185, 185, 182, 0.5);
+    background-color: rgba(154, 175, 185, 0.7);
     margin: 5% 20%;
     float: left;
 }
@@ -374,23 +372,24 @@ footer  {
     padding-top: 5%;
     font-family: Lato, sans-serif;
     font-weight: 600;
-    font-size: 22px;
+    font-size: 25px;
 }
+
+
 
 #price-list-title h2 {
     font-family: Lato, sans-serif;
     text-transform: uppercase;
     font-weight:600;
-    font-size: 28px;
+    font-size: 30px;
     margin-top: 60px;
     margin-bottom:50px;
     text-align: center;
-  
-
 }
 
-
-
+strong {
+    font-size: 15px;
+}
 
 
 #facial-treatments, #body-treatments, #waxing-service, #massage-service, #pedicure-service, #manicure-service {
@@ -405,11 +404,13 @@ footer  {
 .treatment { float: left;
     padding:10px;
     margin-left: 40px;
+    font-size: 18px;
             }
 
 
 .price { float: right;
     padding:10px;
+    font-size:18px;
      }
 
 
