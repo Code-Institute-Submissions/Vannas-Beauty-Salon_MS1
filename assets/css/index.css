@@ -156,18 +156,18 @@ body {
 #reviews {
     width: 100%;
     float: left;
-    margin-top: 70px;
+    margin-top: 8%;
+    margin-left: 17%;
+    margin-bottom: 50px;
 
 }
 
 #reviews div {
     width: 20%;
-    height: 300px;
     float: left;
     text-align: center;
-    margin-left: 9%;
-    margin-top: 1%
-    
+    margin-left: 2%;
+       
 }
 
 #reviews p {
@@ -672,12 +672,26 @@ height: 300px;
     margin-bottom: 8px;
 }
 
-#iframe-contact-page {
+
+
+#iframe-description-wraper{
+    width: 100%;
     float: left;
-    height: 400px;
-    width: 600px;
-    margin-left: 5%;
 }
+
+#iframe-contact-page, #contact-description {
+    width: 50%;
+    float: left;
+}
+
+#iframe-contact-page {
+    height: 300px;
+    width: 40%;
+    margin-left: 5%;
+   
+}
+
+
 
 #contact-description {
     float:left;
@@ -701,6 +715,7 @@ height: 300px;
 .address-details {
     margin-left: 10%;
 }
+
 
 
 /* Form */
@@ -807,6 +822,17 @@ textarea:focus{
         margin-right: 10%;
         margin-left: 10%;
     }
+
+    #reviews {
+        margin-left: 0;
+        margin-bottom: 0;
+    }
+
+ #reviews div {
+     width: 100%;
+     margin-bottom: 60px;
+ }
+
 
     .address, .working-hours {
         width: 45%;
