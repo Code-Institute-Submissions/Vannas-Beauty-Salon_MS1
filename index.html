@@ -8,44 +8,58 @@
     <meta name="keywords" content="beautician, waxing, pedicure, manicure, facial treatments, body treatments, gel nails, nails, Dublin, beauty salon">
     <link rel="stylesheet" href="assets/css/index.css">
     <title>Vanna's Beauty Salon</title>
+   
+
 </head>
 <body>
 
-<div class="content">
- <header id="header">
-
-    <ul>
-        <li><h1>Vanna's Beauty Salon</h1>
-                <p>The soul of a woman</p>
-        </li>
-            
-    </ul>
-        
-</header>      
+    <div class="content">
 
 
-<nav>
+<header class="header">
+
+<nav class="navbar">
+    <div class="container-fluid"> 
+        <div id="header" class="nav-logo">
+
+           <ul>
+               <li><h1><a href="index.html" class="nav-link">Vanna's Beauty Salon</a></h1>
+                       <p>The soul of a woman</p>
+               </li>      
+           </ul>
+               
+        </div>  
+    
     <div id="nav">
         
-        <ul>
-            <li>
-            <a href="contact-us.html">Contact Us</a>
+        <ul class="nav-menu">
+            <li class="nav-item">
+            <a href="contact-us.html" class="nav-link">Contact Us</a>
             </li>
-            <li>
-            <a href="gallery.html">Gallery</a>
+            <li class="nav-item">
+            <a href="gallery.html" class="nav-link">Gallery</a>
             </li>
-            <li>
-            <a href="our-team.html">Our Team</a>
+            <li class="nav-item">
+            <a href="our-team.html" class="nav-link">Our Team</a>
             </li>
-            <li>
-            <a href="services-prices.html">Services & Prices</a>
+            <li class="nav-item">
+            <a href="services-prices.html" class="nav-link">Services & Prices</a>
             </li>
-            <li>
-            <a href="index.html" class="active">Home</a>
+            <li class="nav-item">
+            <a href="index.html" class="active nav-link" >Home</a>
             </li>
         </ul>
+
+        <div class="hamburger">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+    </div>
     </div>
 </nav>
+</header>
+
 
     <div id="hr"></div>
 
@@ -234,8 +248,19 @@
 
 </div>
 
-      <!-- font awsome script -->
-      <script src="https://kit.fontawesome.com/1ef70762c3.js" crossorigin="anonymous"></script>
+<script>
+    const hamburger = document.querySelector(".hamburger");
+const navMenu = document.querySelector(".nav-menu");
 
+hamburger.addEventListener("click", mobileMenu);
+
+function mobileMenu() {
+    hamburger.classList.toggle("active");
+    navMenu.classList.toggle("active");
+}
+
+</script>
+<!-- font awsome script -->
+<script src="https://kit.fontawesome.com/1ef70762c3.js" crossorigin="anonymous"></script>
 </body>
 </html>
