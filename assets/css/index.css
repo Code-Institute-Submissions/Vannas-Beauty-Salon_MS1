@@ -110,28 +110,29 @@ body {
 #hero-outer{
     width: 100%;
     overflow: hidden;
-    position: relative;
-    top: 30px;
     
 }
 
 .hero-img {
     width: 100%;
+    margin-top: 2%;
 }
 
 /* About Us */
 
 #about-us {
-    width: 50%;
-    float: left;
-    margin-left: 26%;
-    margin-right: 26%;
+    width: 100%;
     margin-top: 8%;
+    text-align: center;
+   
+}
+
+#about-us div {
+    width: 50%;
+    display: inline-block;
     border: 1px solid #252525;
     border-radius: 10px;
-    
 
-    
 }
 
 #about-us h2 {
@@ -139,15 +140,15 @@ body {
     font-family: Lato, sans-serif;
     text-transform: uppercase;
     color: #252525;
-    padding-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     
 }
 
 .about {
     text-align: center;
-    padding: 30px 30px 30px 30px;
+    padding: 0px 50px 30px 50px;
     letter-spacing: 1px;
-   
    
 }
 
@@ -318,7 +319,7 @@ footer {
 
 #services-prices {
     background-color: rgba(154, 175, 185, 0.7);
-    margin: 5% 20%;
+    margin: 5% 15%;
     float: left;
 }
 
@@ -367,8 +368,10 @@ strong {
     padding:10px;
     margin-left: 40px;
     font-size: 18px;
+    width: 50%;
 }
 
+.responsive-treatment {width: 50%;}
 
 .price { float: right;
     padding:10px;
@@ -415,11 +418,8 @@ strong {
 /* Meet Our Team Page*/
 
 #our-team-img-outer {
-        height: 500px;
         width: 100%;
         overflow: hidden;
-        position: relative;
-        top: 30px;
 }
 
 #our-team-img {
@@ -429,6 +429,7 @@ strong {
     background-size: cover;
     width: 100%;
     height: 500px;
+    margin-top: 2%;
 }
 
    #our-team-section {
@@ -526,10 +527,6 @@ strong {
  }
 
  /* Gallery */
-
-
- 
-
  #photos {
     clear: both;
     line-height: 0;
@@ -546,7 +543,7 @@ strong {
 #gallery-title-outer {
     float: left;
     margin-bottom: 70px;
-    margin-top: 120px;  
+    margin-top: 10%;  
 }
 
 
@@ -595,6 +592,9 @@ strong {
     position: relative;
     top: 30px;
 }
+
+
+
 
 .contact-img-1, .contact-img-2, .contact-img-3, .contact-img-4 {
 width: 100%;
@@ -785,12 +785,15 @@ textarea:focus{
     box-shadow: 3px 0 15px #719ECE;
 }
 
-/* Media queries */
 
+
+
+/* Media queries */
 
 @media screen and (max-width: 1200px) {
 
-    /*Home Page*/
+/*Home Page*/
+
 
     #hr {
         left: 0;
@@ -800,7 +803,6 @@ textarea:focus{
         font-size: 105%;
         clear: left;
         float: left;
-        margin-bottom: 20px;
         line-height: 25px;
         width: 100%;
         border-bottom: 1px solid #3a3a3a;
@@ -813,15 +815,9 @@ textarea:focus{
         width: 100%;
     }
 
-    #nav li {
-        margin-right: 17px;
-    }
+    #nav li {margin-right: 17px;}
     
-    #about-us {
-        width: 80%;
-        margin-right: 10%;
-        margin-left: 10%;
-    }
+    #about-us div{width: 100%;}
 
     #reviews {
         margin-left: 0;
@@ -835,11 +831,13 @@ textarea:focus{
 
 
     .address, .working-hours {
-        width: 45%;
+        width: 100%;
         height: 220px;
         padding: 10px 0px 0px 10px;
         margin: 1%;
     }
+
+    .working-hours ul {padding:20px 100px 20px 100px;}
 
 
     #iframe-home-page {
@@ -848,15 +846,30 @@ textarea:focus{
         margin: 0;
     }
 
+#footer {height: 100%;}
+
+#footer i { font-size: 140%;}
+
 #footer div {
-    font-size: 15px;
+    font-size: 16px;
+    float: left;
+    text-align: left;
+    padding-top: 0;
+    height: 20%;
+}
+
+.envelope-icon {width: 100%;}
+
+.phone-icon{width: 80%;}
+
+.social-media {
+    float: right;
+    width: 20%;
 }
 
 /*Services & Prices*/
 
-#services-prices {
-    margin: 5% 5%;
-}
+#services-prices { margin: 0% 0%;}
 
 /* Meet Our Team */
 
@@ -900,21 +913,24 @@ textarea:focus{
 
 /* Contact Us Page */
 
-#iframe-contact-page {
-    width: 400px;
-}
+#iframe-contact-page {width: 90%;}
 
 #contact-description {
-    width: 30%;
-    margin-left: 7%;
+     width: 50%;
+    margin-left: 10%;
+    margin-top: 8%;
 }
 
-.form-control {
-    width: 40%;
-}
+.form-control {width: 40%;}
 
 input[type=submit] {
     width: 30%;
+}
+
+/* Gallery */
+
+#photos {
+    column-count: 2;
 }
 
 }
@@ -924,19 +940,39 @@ input[type=submit] {
 
 @media screen and (max-width: 950px) {
 
-/* Home Page */
+body {
+    margin-left: 1%;
+    margin-right: 1%;
+}
 
+#contact-img-outer {
+    display: none;
+}
 
+#contact-outer {
+    margin:5% 0px 10% 0px;}
 
+.form-control { width: 50%;
+}
 
-
+input[type=submit] {
+    width: 50%;
+}
 
 }
 
 
+@media screen and (max-width: 650px) 
+{
+
+ body {
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+ }
 
 
 
+}
 
 
 
