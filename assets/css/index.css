@@ -1164,6 +1164,18 @@ input[type=submit] {
     width: 50%;
 }
 
+/* --------------------- Meet Our Team ----------- */
+
+#our-team-title { margin: 0;}
+
+#our-team-title h2 {
+    font-size: 30px;
+    margin-top: 10%;
+}
+
+.gray-line {width: 80%;}
+
+
 
 }
 
