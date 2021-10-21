@@ -12,46 +12,53 @@
 <body>
 
 <div class="content">
- <header id="header">
-
-        
-           <ul>
-            <li><h1>Vanna's Beauty Salon</h1>
-                <p>The soul of a woman</p>
-            </li>
-            
-           </ul>
-
-            
-</header>      
+    <header class="header">
+        <nav class="navbar">
+        <div class="container-fluid"> 
+            <div id="header" class="nav-logo">
     
-<nav>
-    <div id="nav">
+               <ul>
+                   <li><h1><a href="index.html" class="nav-logo">Vanna's Beauty Salon</a></h1>
+                           <p>The soul of a woman</p>
+                   </li>      
+               </ul>     
+            </div>  
         
-            <ul>
+        <div id="nav">
+            <ul class="nav-menu">
+               
+                <li class="nav-item">
+                <a href="index.html" class="active-link nav-link" >Home</a>
+                </li>
+    
+                <li class="nav-item">
+                    <a href="services-prices.html" class="nav-link">Services & Prices</a>
+                </li>
+    
+                <li class="nav-item">
+                    <a href="our-team.html" class="nav-link">Our Team</a>
+                </li>
+    
+                <li class="nav-item">
+                    <a href="gallery.html" class="nav-link">Gallery</a>
+                </li>
+    
+    
+                <li class="nav-item">
+                    <a href="contact-us.html" class="nav-link">Contact Us</a>
+                </li>         
+            </ul>
+    
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+        </div>
+    </nav>
+    </header>
 
-            <li>
-            <a href="contact-us.html"  class="active">Contact Us</a>
-        </li>
-        <li>
-            <a href="gallery.html">Gallery</a>
-        </li>
-        <li>
-            <a href="our-team.html">Our Team</a>
-        </li>
-        <li>
-            <a href="services-prices.html">Services & Prices</a>
-        </li>
-
-        <li>
-            <a href="index.html">Home</a>
-        </li>
-
-        </ul>
-
-
-    </div>
-</nav>
     <div id="hr"></div>
 
 
@@ -140,7 +147,18 @@
         
 </div>
 
-     
+     <script>
+    const hamburger = document.querySelector(".hamburger");
+const navMenu = document.querySelector(".nav-menu");
+
+hamburger.addEventListener("click", mobileMenu);
+
+function mobileMenu() {
+    hamburger.classList.toggle("active");
+    navMenu.classList.toggle("active");
+}
+
+</script>
         
       <!-- font awsome script -->
       <script src="https://kit.fontawesome.com/1ef70762c3.js" crossorigin="anonymous"></script>

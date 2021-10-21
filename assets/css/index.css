@@ -393,10 +393,8 @@ strong {
     padding:10px;
     margin-left: 40px;
     font-size: 18px;
-    width: 50%;
 }
 
-.responsive-treatment {width: 50%;}
 
 .price { float: right;
     padding:10px;
@@ -1018,7 +1016,7 @@ input[type=submit] {
 @media screen and (max-width: 550px){
 
 
-
+/*  ---------------------- Home Page ---------- */
     #nav {
         float: right;
         font-size: 100%;
@@ -1043,8 +1041,6 @@ input[type=submit] {
     .nav-menu.active {
         left: 0;
     }
-
-
 
     .hamburger {
         display: block;
@@ -1077,6 +1073,7 @@ input[type=submit] {
      margin-left: 0;
  }
 
+
  #about-us div{
      width: unset;
      overflow: hidden;
@@ -1103,8 +1100,68 @@ input[type=submit] {
     height: 300px;
     width: 100%;
     margin-top: 7px;
+}
 
+#reviews div {
+    width:90%
+}
 
+#contact {
+    background: none;
+}
+
+#contact h2 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: -10px;
+}
+
+.working-hours h3 {
+    font-size: 19px;
+}
+
+.address, .working-hours {
+    width: 100%;
+    background-color: rgba(231, 231, 204, 0.74);
+    height: fit-content;
+}
+
+.working-hours ul {
+    padding: 10px 8% 10px 5%;
+}
+
+#iframe-home-page {
+    width: 100%;
+    height: 200px;
+    margin-top: 0;
+}
+
+/* --------------------- Services & Prices ----------- */
+
+.treatment { margin-left: 0;
+            width: fit-content;     
+            font-size: 16px;  }
+
+#services-prices h3 {
+    padding-bottom: 1%;
+    padding-top: 1%;
+    font-size: 23px;
+    background-color: mistyrose;
+    border-radius: 10px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+#facial, #body, #waxing, #massage, #pedicure, #manicure {
+    padding: 10px 0px;
+}
+
+.price {
+    font-size: 16px;
+} 
+
+.responsive-treatment {
+    width: 50%;
 }
 
 
