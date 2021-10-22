@@ -3,13 +3,13 @@
 
 
 * {
-    margin: 0;
-    padding: 0;
-    border: none;
+    margin : 0;
+    padding : 0;
+    border : none;
 }
 
 body {
-    font-family: Open Sans, sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 300;
     font-size: 1rem;
     line-height: 1.5;
@@ -246,6 +246,14 @@ body {
 }
 
 
+.address p {
+    padding-bottom: 5px;
+}
+
+.padding-top-contact {
+    margin-top: 20px;
+}
+
 .working-hours h3 {
     text-align: center;
     text-transform: uppercase;
@@ -257,6 +265,7 @@ body {
 
 .working-hours{
     margin-left: 2.3%;
+    text-align: center;
 }
 
     #iframe-home-page {
@@ -269,21 +278,26 @@ body {
     
 .working-hours ul {
     margin: 0;
-    padding: 20px 50px 20px 50px;
+    padding: 20px 0px 20px 0px;
     list-style-type: none;
 }
 
  .padding-top{
-    padding-top: 20px;
+    padding-top: 10%;
 }
 
 
 .day {
     float: left;
+    width: 44%;
+    text-align: left;
+    padding-left: 8%;
 }
+
 
 .time {
     float: right;
+    padding-right: 8%;
 }
 
 
@@ -700,6 +714,7 @@ height: 300px;
 #iframe-description-wraper{
     width: 100%;
     float: left;
+    margin-bottom: 5%;
 }
 
 #iframe-contact-page, #contact-description {
@@ -711,7 +726,7 @@ height: 300px;
     height: 300px;
     width: 40%;
     margin-left: 5%;
-   
+    border: 2px solid #959191;
 }
 
 
@@ -855,7 +870,7 @@ textarea:focus{
     .address, .working-hours {
         width: 50%;
         height: 210px;
-        padding: 10px 0px 0px 10px;
+        padding: 10px 0px 0px 0px;
         margin: 1%;
     }
 
@@ -908,25 +923,11 @@ textarea:focus{
     width: 40%;
 }
 
-#portrait-one {
+#portrait-one, #portrait-two, #portrait-three, #portrait-four {
     width: 300px;
     height: 300px;
 }
 
-#portrait-two {
-    width: 300px;
-    height: 300px;
-}
-
-#portrait-three {
-    width: 300px;
-    height: 300px;
-}
-
-#portrait-four {
-    width: 300px;
-    height: 300px;
-}
 
 .text {
     width: 100%;
@@ -1075,7 +1076,12 @@ input[type=submit] {
 
 #header p {
     font-size: 13px;
+    margin-left: 30px;
 }
+
+#header h1 {
+    margin-left: 10px;}
+    
  
 
  #nav ul {
@@ -1132,12 +1138,14 @@ input[type=submit] {
 .address, .working-hours {
     width: 100%;
     background-color: rgb(157 157 45 / 43%);
-    height: fit-content;
+    height: 220px;
 }
 
 .working-hours ul {
-    padding: 10px 8% 10px 5%;
+    padding: 10px 5% 10px 0%;
 }
+
+
 
 #iframe-home-page {
     width: 100%;
@@ -1148,7 +1156,7 @@ input[type=submit] {
 /* --------------------- Services & Prices ----------- */
 
 .treatment { margin-left: 0;
-            width: fit-content;     
+            width: 60%;     
             font-size: 16px;  }
 
 #services-prices h3 {
@@ -1184,13 +1192,13 @@ input[type=submit] {
 
 .gray-line {width: 80%;}
 
+#portrait-one, #portrait-two, #portrait-three, #portrait-four{
+    width: 200px;
+    height: 300px;
+}
 
 /* --------------------- Contact Us  ----------- */
 
-
-#iframe-contact-page {
-    border: 2px solid #959191;
-}
 
 #contact-description {
     width: fit-content; 
@@ -1198,6 +1206,10 @@ input[type=submit] {
 
 .form-control {
     width: 80%;
+}
+
+input[type=submit] {
+    width: 60%;
 }
 
 }
