@@ -73,54 +73,67 @@ The site is presented in a minimalist but effective way, providing all the infor
 # Wireframes
 
 
-### _Home Page_ 
+## _Home Page_ 
 
 <p align="center">
-<img src="wireframe/home-page.png" width="600" height="700">
+<img src="wireframe/home-page.png" width="600" height="100%">
 </p>
 
 
 
-### _Services & Prices_
+## _Services & Prices_
 
 <p align="center">
-<img src="wireframe/services-prices.png" width="600" height="900">
+<img src="wireframe/services-prices.png" width="600" height="100%">
 </p>
 
 
-### _OurTeam_
+## _OurTeam_
 
 <p align="center">
-<img src="wireframe/our-team.png" width="600" height="900">
+<img src="wireframe/our-team.png" width="600" height="100%">
 </p>
 
-### _Gallery_
+## _Gallery_
 
 <p align="center">
-<img src="wireframe/gallery.png" width="600" height="900">
-</p>
-
-
-### _Contact Us_
-
-<p align="center">
-<img src="wireframe/contact.png" width="600" height="900">
+<img src="wireframe/gallery.png" width="600" height="100%">
 </p>
 
 
-### _Mobile View - Home Page_
+## _Contact Us_
 
 <p align="center">
-<img src="wireframe/mobile-home-page.png" width="400" height="1000">
+<img src="wireframe/contact.png" width="600" height="100%">
 </p>
 
-### _Mobile View_
+
+## _Mobile View - Home Page_
 
 <p align="center">
-<img src="wireframe/mobile-team-gallery-contact.png" width="1000" height="700">
+<img src="wireframe/mobile-home-page.png" width="400" height="100%">
 </p>
 
-## Surface
+## _Mobile View - Our Team_
+
+<p align="center">
+<img src="wireframe/mobile-our-team.png" width="400" height="100%">
+</p>
+
+
+## _Mobile View - Gallery_
+
+<p align="center">
+<img src="wireframe/mobile-gallery.png" width="400" height="100%">
+</p>
+
+## _Mobile View - Contact Us_
+
+<p align="center">
+<img src="wireframe/mobile-contact.png" width="400" height="100%">
+</p>
+
+# Surface
 
 - Design 
     - Colors 
