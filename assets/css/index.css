@@ -1020,10 +1020,13 @@ input[type=submit] {
     #nav {
         float: right;
         font-size: 100%;
-        margin: 3%;
+        margin: 6% 3% 0% 3%;
+        margin-top: 6%;
         border-bottom: none;
         clear: none;
         width: 10%;
+        flex-basis: 100%;
+     align-items: center;
     }
 
     .nav-menu {
@@ -1042,6 +1045,13 @@ input[type=submit] {
         left: 0;
     }
 
+    #nav a {
+        font-size: 20px;
+        color: #2a2a2a;
+        font-family: Lato, sans-serif;
+        font-weight: 600;
+    }
+
     .hamburger {
         display: block;
         cursor: pointer;
@@ -1049,6 +1059,8 @@ input[type=submit] {
 
     #nav li {
         width: 100%;
+        margin-bottom: 10px;
+        margin-top: 10px;
     }
 
 .nav-link {
@@ -1064,10 +1076,7 @@ input[type=submit] {
 #header p {
     font-size: 13px;
 }
- #nav{
-     flex-basis: 100%;
-     align-items: center;
- }
+ 
 
  #nav ul {
      margin-left: 0;
@@ -1084,7 +1093,7 @@ input[type=submit] {
 }
 
 .about {
-    font-size: 14px;
+    font-size: 15px;
     padding: 0px 10px 20px 10px;
 }
 
@@ -1099,7 +1108,7 @@ input[type=submit] {
     background-size: cover;
     height: 300px;
     width: 100%;
-    margin-top: 7px;
+    margin-top: 2%;
 }
 
 #reviews div {
@@ -1122,7 +1131,7 @@ input[type=submit] {
 
 .address, .working-hours {
     width: 100%;
-    background-color: rgba(231, 231, 204, 0.74);
+    background-color: rgb(157 157 45 / 43%);
     height: fit-content;
 }
 
@@ -1176,6 +1185,20 @@ input[type=submit] {
 .gray-line {width: 80%;}
 
 
+/* --------------------- Contact Us  ----------- */
+
+
+#iframe-contact-page {
+    border: 2px solid #959191;
+}
+
+#contact-description {
+    width: fit-content; 
+}
+
+.form-control {
+    width: 80%;
+}
 
 }
 
