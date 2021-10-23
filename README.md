@@ -150,15 +150,19 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 - Font 
     - Open Sans, sans-serif - main font
-    - Lato - all h2 and h3 headings
+    - Lato - for all h2 and h3 headings
 
 
-- Typography
-    - Font
+- Media 
+    - Hero image - is designed in bright and strong colors to grab the user's attention and elevate the overall look of the page
 
-- Imagery
+    - Contact section - contains a background image that is soothing and mild. Not conspicuous, and yet does not make the page monotonous
 
+    - Services & Prices - contains a background imag that is mild and blends nicely with the background color of services and prices
 
+    -Our Team - contains an image just below the navigation list. The photo shows a beautician doing a manicure to a customer. I chose this image because it shows a beautician in her work environment and blends nicely with the whole look of the page.
+
+    - 
 ## Technologies Used
 
 - Languages

@@ -257,9 +257,10 @@ body {
 .working-hours h3 {
     text-align: center;
     text-transform: uppercase;
-    font-family: Lato, sans-serif;
+    font-family: Oswald, sans-serif;
     font-weight: 500;
     font-style: italic;
+   
 }
 
 .working-hours{
@@ -374,7 +375,7 @@ footer {
     font-family: Lato, sans-serif;
     font-weight: 600;
     font-size: 25px;
-  
+    
 }
 
 
