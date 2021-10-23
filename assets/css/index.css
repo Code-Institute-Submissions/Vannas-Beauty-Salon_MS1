@@ -257,8 +257,7 @@ body {
 .working-hours h3 {
     text-align: center;
     text-transform: uppercase;
-    font-family: Oswald, sans-serif;
-    color: #252525;
+    font-family: Lato, sans-serif;
     font-weight: 500;
     font-style: italic;
 }
@@ -375,6 +374,7 @@ footer {
     font-family: Lato, sans-serif;
     font-weight: 600;
     font-size: 25px;
+  
 }
 
 
@@ -382,6 +382,7 @@ footer {
 #price-list-title h2 {
     font-family: Lato, sans-serif;
     text-transform: uppercase;
+    color: #252525;
     font-weight:600;
     font-size: 30px;
     margin-top: 60px;
@@ -483,6 +484,7 @@ strong {
     margin-bottom:8px;
     text-align: center;
     letter-spacing: 1px;
+    color: #252525;
    
 }
 
@@ -593,6 +595,7 @@ strong {
     text-align: center;
     letter-spacing: 1px;
     width: 100%;
+    color: #252525;
 }
 
 .gray-line {
@@ -707,6 +710,7 @@ height: 300px;
     letter-spacing: 1px;
     width: 100%;
     margin-bottom: 8px;
+    color: #252525;
 }
 
 
@@ -777,7 +781,7 @@ height: 300px;
 }
 
 #form {
-    display: block;
+    float: left;
     width: 100%;
     margin-bottom: 50px;
 
@@ -862,7 +866,7 @@ textarea:focus{
     }
 
  #reviews div {
-     width: 80%;
+     width: 90%;
      margin-bottom: 60px;
  }
 

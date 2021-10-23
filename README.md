@@ -8,7 +8,7 @@ You can view the deployed website here
 
 
 #
-# UX
+## UX
 
 The site is presented in a minimalist but effective way, providing all the information the user needs. In general, users can find out more about Vanna's Beauty Salon, his team, services and how to contact them, there is also a gallery wher users can find inspiration in nail design or view works before and after appropiate treatments.
 
@@ -27,9 +27,9 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 
 #
-# Scope 
+## Scope 
 
-## Features
+### Features
 
 - An easy and simple navigation throught the website
 - List of services and their prices
@@ -39,12 +39,12 @@ The site is presented in a minimalist but effective way, providing all the infor
 - Easily visible salon contact infromation
 - Social links in the footer of each page so user can follow the salon via social networks and be up to date with the latest information
 
-## Future Features
+### Future Features
 
 - Online booking so that the client can quickly select the desired date from the calendar 
 
 #
-# Structure
+## Structure
 
 - Header  
     - Salon logo positioned left, navigation bar on the right
@@ -70,10 +70,10 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 #
 
-# Wireframes
+## Wireframes
 
 
-## _Home Page_ 
+### _Home Page_ 
 
 <p align="center">
 <img src="wireframe/home-page.png" width="600" height="100%">
@@ -88,46 +88,46 @@ The site is presented in a minimalist but effective way, providing all the infor
 </p>
 
 
-## _OurTeam_
+### _OurTeam_
 
 <p align="center">
 <img src="wireframe/our-team.png" width="600" height="100%">
 </p>
 
-## _Gallery_
+### _Gallery_
 
 <p align="center">
 <img src="wireframe/gallery.png" width="600" height="100%">
 </p>
 
 
-## _Contact Us_
+### _Contact Us_
 
 <p align="center">
 <img src="wireframe/contact.png" width="600" height="100%">
 </p>
 
 
-## _Mobile View - Home Page_
+### _Mobile View - Home Page_
 
 <p align="center">
 <img src="wireframe/mobile-home-page.png" width="400" height="100%">
 </p>
 
-## _Mobile View - Our Team_
+### _Mobile View - Our Team_
 
 <p align="center">
 <img src="wireframe/mobile-our-team.png" width="400" height="100%">
 </p>
 
 
-## _Mobile View - Gallery_
+### _Mobile View - Gallery_
 
 <p align="center">
 <img src="wireframe/mobile-gallery.png" width="400" height="100%">
 </p>
 
-## _Mobile View - Contact Us_
+### _Mobile View - Contact Us_
 
 <p align="center">
 <img src="wireframe/mobile-contact.png" width="400" height="100%">
@@ -135,8 +135,23 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 # Surface
 
-- Design 
-    - Colors 
+### Design 
+ As the salon itself exudes calm and relaxation, I created the page in such a tone. The background colors I used are bright and soothing, and the images are bright and colorful. The goal was to bring the user closer to the look and feel of the salon.
+
+ - Chosen colors:
+    - #3a3a3a the main color
+    - #2a2a2a for all h2 headings and nav bar
+    - rgba(237, 243, 210, 0.6) - for the "Contact" section 
+    - rgb(157 157 45 / 43%) - for the "Contact" section for max-width 550px
+    - rgba(79, 79, 82, 0.6) - for the Footer background
+    - rgba(154, 175, 185, 0.7) - for the "Price List" background color
+    - rgba(79, 79, 82) - for the Submit button
+
+
+- Font 
+    - Open Sans, sans-serif - main font
+    - Lato - all h2 and h3 headings
+
 
 - Typography
     - Font
