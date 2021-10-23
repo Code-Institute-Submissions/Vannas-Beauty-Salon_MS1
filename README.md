@@ -173,10 +173,18 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 ## Technologies Used
 
+- [Google Fonts](https://fonts.google.com/) - provide all of the fonts  for this website .
+- [Font Awsome](https://fontawesome.com/) -was used for the site icos.
+- [Java srcipt](https://en.wikipedia.org/wiki/JavaScript) - used for the hamburger navigation and embedded Google Map.
+- [Github](https://github.com/IrisSmok) - was used to store the project code.
+- [Gitpod](https://www.gitpod.io/) - was used to for coding.
+- [Balsamiq](https://balsamiq.com/) - was used to create a site wireframes.
+- [Shutterstock](https://www.shutterstock.com/home) and [Unsplash photo](https://unsplash.com/) - was used to for all images on the website.
+- [Google map generator](https://google-map-generator.com/) - was used to import bussiness location.
+- [jQuery](https://jquery.com/)- was used for a responsive navbar.
+- [Am I Responsive](http://ami.responsivedesign.is/) - to check if the site si responsive on diferent screen sizes.
+- [Instrucions for responsive navbar and hamburer menu](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci) - this site is used to help me build a responsive navbar and hamburger menu
 
-
-- Languages
-- Programs
 
 
 ## Testing
