@@ -135,35 +135,45 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 # Surface
 
-### Design 
- As the salon itself exudes calm and relaxation, I created the page in such a tone. The background colors I used are bright and soothing, and the images are bright and colorful. The goal was to bring the user closer to the look and feel of the salon.
+## Design 
+ As the salon itself exudes calm and relaxation, I created the page in such a tone. The background colors I used are bright and soothing, and the images are bright and colorful. The goal was to bring the user closer to the atmosphere of the salon.
 
- - Chosen colors:
-    - #3a3a3a the main color
-    - #2a2a2a for all h2 headings and nav bar
-    - rgba(237, 243, 210, 0.6) - for the "Contact" section 
-    - rgb(157 157 45 / 43%) - for the "Contact" section for max-width 550px
-    - rgba(79, 79, 82, 0.6) - for the Footer background
-    - rgba(154, 175, 185, 0.7) - for the "Price List" background color
-    - rgba(79, 79, 82) - for the Submit button
-
-
-- Font 
-    - Open Sans, sans-serif - main font
-    - Lato - for all h2 and h3 headings
+ ### Chosen colors:
+- #3a3a3a the main color
+- #2a2a2a for all h2 headings and nav bar
+- rgba(237, 243, 210, 0.6) - for the "Contact" section 
+- rgb(157 157 45 / 43%) - for the "Contact" section for max-width 550px
+- rgba(79, 79, 82, 0.6) - for the Footer background
+- rgba(154, 175, 185, 0.7) - for the "Price List" background color
+- rgba(79, 79, 82) - for the Submit button
 
 
-- Media 
-    - Hero image - is designed in bright and strong colors to grab the user's attention and elevate the overall look of the page
+### Font 
+- Open Sans, sans-serif - main font
+- Lato - for all h2 and h3 headings
 
-    - Contact section - contains a background image that is soothing and mild. Not conspicuous, and yet does not make the page monotonous
 
-    - Services & Prices - contains a background imag that is mild and blends nicely with the background color of services and prices
+### Media 
+- Hero image - is designed in bright and strong colors to grab the user's attention and elevate the overall look of the page
 
-    -Our Team - contains an image just below the navigation list. The photo shows a beautician doing a manicure to a customer. I chose this image because it shows a beautician in her work environment and blends nicely with the whole look of the page.
+ - Contact section - contains a background image that is soothing and mild. Not conspicuous, and yet does not make the page monotonous
 
-    - 
+ - Services & Prices - contains a background imag that is mild and blends nicely with the background color of services and prices
+
+ - Our Team - contains an image just below the navigation . The photo shows a beautician doing a manicure to a customer. I chose this image because it shows a beautician in her work environment and blends nicely with the whole look of the page.
+
+- Gallery - contains nail design images so that the user can find the desired design, if he needs inspiration. The gallery also helps promote the salon
+
+- Contact Us - contains images just below the navigation. Images are placed horizontally. After 950 px they no longer appear on the page.
+
+
+### Languages 
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) 
+- [CSS3](https://en.wikipedia.org/wiki/CSS) 
+
 ## Technologies Used
+
+
 
 - Languages
 - Programs
