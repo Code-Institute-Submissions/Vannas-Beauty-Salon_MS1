@@ -24,7 +24,9 @@ The site is presented in a minimalist but effective way, providing all the infor
 - As a new user of this website, I want to easily found a way to contact you 
 - As a new user to this website, I want to meet the team
 - As a user, I want to follow the salon on social media so I can keep up to date with the latest information
-
+- As a user, I want to easil find service prices
+- As a user, I want to know a working hours of the salon
+- As a user, I want to know a how to contact the salon
 
 #
 ## Scope 
@@ -141,8 +143,8 @@ The site is presented in a minimalist but effective way, providing all the infor
  ### Chosen colors:
 - #3a3a3a the main color
 - #2a2a2a for all h2 headings and nav bar
-- rgba(237, 243, 210, 0.6) - for the "Contact" section 
-- rgb(157 157 45 / 43%) - for the "Contact" section for max-width 550px
+- rgba(237, 243, 210, 0.6) - address background and opening hours, Contact section on Home Page
+- rgb(157 157 45 / 43%) - address background and opening hours, Contact section on Home Page for media query (max-width 550px)
 - rgba(79, 79, 82, 0.6) - for the Footer background
 - rgba(154, 175, 185, 0.7) - for the "Price List" background color
 - rgba(79, 79, 82) - for the Submit button
@@ -154,25 +156,27 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 
 ### Media 
-- Hero image - is designed in bright and strong colors to grab the user's attention and elevate the overall look of the page
+**Hero image** - is designed in bright and strong colors to grab the user's attention and elevate the overall look of the page
 
- - Contact section - contains a background image that is soothing and mild. Not conspicuous, and yet does not make the page monotonous
+ **Contact section** - contains a background image that is soothing and mild. Not conspicuous, and yet does not make the page monotonous
 
- - Services & Prices - contains a background imag that is mild and blends nicely with the background color of services and prices
+ **Services & Prices** - contains a background imag that is mild and blends nicely with the background color of services and prices
 
- - Our Team - contains an image just below the navigation . The photo shows a beautician doing a manicure to a customer. I chose this image because it shows a beautician in her work environment and blends nicely with the whole look of the page.
+  **Our Team** - contains an image just below the navigation . The photo shows a beautician doing a manicure to a customer. I chose this image because it shows a beautician in her work environment and blends nicely with the whole look of the page.
 
-- Gallery - contains nail design images so that the user can find the desired design, if he needs inspiration. The gallery also helps promote the salon
+ **Gallery** - contains nail design images so that the user can find the desired design, if he needs inspiration. The gallery also helps promote the salon
 
-- Contact Us - contains images just below the navigation. Images are placed horizontally. After 950 px they no longer appear on the page.
+**Contact Us** - contains images just below the navigation. Images are placed horizontally. After 950 px they no longer appear on the page.
 
+
+## Technologies Used
 
 ### Languages 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) 
 - [CSS3](https://en.wikipedia.org/wiki/CSS) 
 
-## Technologies Used
 
+### Frameworks, Libraries & Programs Used
 - [Google Fonts](https://fonts.google.com/) - provide all of the fonts  for this website .
 - [Font Awsome](https://fontawesome.com/) -was used for the site icos.
 - [Java srcipt](https://en.wikipedia.org/wiki/JavaScript) - used for the hamburger navigation and embedded Google Map.
@@ -183,18 +187,56 @@ The site is presented in a minimalist but effective way, providing all the infor
 - [Google map generator](https://google-map-generator.com/) - was used to import bussiness location.
 - [jQuery](https://jquery.com/)- was used for a responsive navbar.
 - [Am I Responsive](http://ami.responsivedesign.is/) - to check if the site si responsive on diferent screen sizes.
-- [Instrucions for responsive navbar and hamburer menu](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci) - this site is used to help me build a responsive navbar and hamburger menu
+- [Responsive navbar and hamburer menu](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci) - this site is used to help me build a responsive navbar and hamburger menu
 
 
 
-## Testing
-- Validating 
+### Testing
+
+
+## Validating 
 - User Story Testing
 - Tested Devices
 - Browsers
  -Lighthouse
 
 ## Bugs and Issues
+
+
+### **HTML Validator** 
+
+- *Warning* : Element “p” not allowed as child of element “h1” in this context
+ 
+    warning was fixed by removing th "p" element as a child of "h1" element. I created an ul and neasted h1 elementand p element inside the li element. 
+
+
+ - *Warning* : Element “br” not allowed as child of element “ul” in this context.
+
+    warnign was fixed by removing the "br" as a childe od "ul" element. 
+
+
+### **CSS Validator** 
+
+- *Value Error* : font-weight 600px is not a font-weight value : 600px
+
+    Error was fixed by removing the incorect font weigt
+
+- *Warning* :  Inner is not a color value : inner 0 0 4px rgb(0, 0, 0, 0.2)
+
+    warning was fixed by removing the incorect color value
+
+- *Warning* : Family names containing whitespace should be quoted. If quoting is omitted, any whitespace characters before and after the name are ignored and any sequence of whitespace characters inside the name is converted to a single space.
+
+    warning was fixed by removing white space between the family names.
+
+- *Warning* : -webkit-transition is a vendor extension
+
+     warning was fixed by removing the incorect csss rule
+
+- *Warning* -moz-border-radius is a vendor extension
+     warning was fixed by removing the incorect css rule 
+
+
 
 ## Deployment
 
