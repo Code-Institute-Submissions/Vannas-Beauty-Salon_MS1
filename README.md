@@ -10,7 +10,7 @@ You can view the deployed website here
 #
 ## UX
 
-The site is presented in a minimalist but effective way, providing all the information the user needs. In general, users can find out more about Vanna's Beauty Salon, its team, services and how to contact them, there is also a gallery where users can find inspiration in nail design or view works before and after appropriate treatments.
+The site is presented in a minimalist but effective way, providing all the information the user needs. In general, users can find out more about Vanna's Beauty Salon, its team, services and how to contact them, there is also a gallery where users can find inspiration in nail design.
 
 
 
@@ -24,9 +24,8 @@ The site is presented in a minimalist but effective way, providing all the infor
 - As a new user of this website, I want to easily find a way to contact you 
 - As a new user of this website, I want to meet the team
 - As a user, I want to follow the salon on social media so I can keep up to date with the latest information
-- As a user, I want to easily find service prices
 - As a user, I want to know the working hours of the salon
-- As a user, I want to know  how to contact the salon
+
 
 #
 ## Scope 
@@ -292,9 +291,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 </p>
 
 
+7. As a user, I want to follow the salon on social media so I can keep up to date with the latest information
 
-- As a user, I want to follow the salon on social media so I can keep up to date with the latest information
+    - on each page there is a footer with social links. At any time, the user can click on the icon that takes him to the social media site of the salon where he can follow the latest information at any time
 
+<p align="center">
+<img src="assets/images/images/footer.png" width="600" height="100%">
+</p>
 
 
 ## Bugs and Issues
