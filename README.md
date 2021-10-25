@@ -193,6 +193,8 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 #Testing
 
+- Tested on Chrome, Opera
+
 
 ## Validating 
 
@@ -211,9 +213,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 <img src="assets/images/images/css-validator.png" width="400" height="100%">
 </p>
 
+## User Story Testing
 
-- User Story Testing
-- Tested Devices
+
+
+
 - Browsers
  -Lighthouse
 
