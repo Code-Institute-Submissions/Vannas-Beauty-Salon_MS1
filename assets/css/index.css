@@ -1211,5 +1211,7 @@ input[type=submit] {
     width: 60%;
 }
 
+#form p {width: 95%;}
+
 }
 
