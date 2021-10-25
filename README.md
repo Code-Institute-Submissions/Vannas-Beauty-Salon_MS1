@@ -16,7 +16,7 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 ## Users Stories 
 
-- As a new user of this website, I want to find the purpose of the site, quickly and easily
+- As a new user of this website, I want to know the purpose of the site and how to easily navigate through the website
 - As a new user of this website, I want to find the services you provide, quickly and easily
 - As a new user of this website, I want to quickly and easyily find the price list of your services
 - As a new user of this website, I want to see the experience of other clients
@@ -196,31 +196,104 @@ The site is presented in a minimalist but effective way, providing all the infor
 - Tested on Chrome, Opera, Microsofte Edge and Firefox desktop version browsers
 - Chrome Developer Tools are used to test the responsiveness on: Desktop, Laptop, Moto G4, Galaxy S5, iPhone 5/SE, iPhone 6,7,8, iPhone 6,7,8 Plus, iPad, iPad Pro, Galaxy Fold 
 
-
-
-
-
 ## Validating 
 
 The W3C Markup Validator and W3C CSS Validator Services were used to check my code for syntax errors in thisproject. 
 
-[HTML](https://validator.w3.org/)
+- [HTML](https://validator.w3.org/)
 
 <p align="center">
 <img src="assets/images/images/html-validator.png" width="400" height="100%">
 </p>
 
 
-[CSS](https://jigsaw.w3.org/css-validator/)
+- [CSS](https://jigsaw.w3.org/css-validator/)
 
 <p align="center">
 <img src="assets/images/images/css-validator.png" width="400" height="100%">
 </p>
 
+- I used Lighthouse tools to test my website
+<p align="center">
+<img src="assets/images/images/lighthouse.png" width="400" height="100%">
+</p>
+
 ## User Story Testing
 
+### **Testing Users Stories form (UX) Section**
+
+1.  As a new user of this website, I want to know the purpose of the site and how to easily navigate through the website
+    -  navigation is located on each page so that the user can easily and simply navigate the page and find all the necessary information
 
 
+### *Desktop,Laptop View*
+
+<p align="center">
+<img src="assets/images/images/logo-navbar.png" width="700" height="100%">
+</p>
+        
+
+### *Tablet View* 
+
+<p align="center">
+<img src="assets/images/images/ipad-navbar.png" width="500" height="100%">
+</p>
+
+### *Phone View*
+
+<p align="center">
+<img src="assets/images/images/logo-navbar-phone.png" width="300" height="100%">
+</p>
+
+
+2. As a new user of this website, I want to find the services you provide, quickly and easily
+
+    - the user can easily find a price list that is readable and clear
+
+<p align="center">
+<img src="assets/images/images/price-list.png" width="600" height="100%">
+</p>
+
+3. As a new user of this website, I want to see the experience of other clients
+
+    - testimonials are placed on the first page so that they are easily noticeable
+
+<p align="center">
+<img src="assets/images/images/reviews.png" width="600" height="100%">
+</p>
+
+
+4. As a new user of this website, I want to see pictures of your work
+
+    - the gallery provides the user with an insight into the quality and inspiring work of the salon
+
+<p align="center">
+<img src="assets/images/images/gallery.png" width="600" height="100%">
+</p>
+  
+
+
+5. As a new user of this website, I want to easily find a way to contact you 
+    - the user can find the contact information on the first page under "Contact" section. But it can also open the "Contact Us" page where there is a contact form where each user can fill out a form and send an inquiry to a beautician
+
+<p align="center">
+<img src="assets/images/images/contact-section2.png" width="700" height="100%">
+</p>
+
+<p align="center">
+<img src="assets/images/images/contact-form.png" width="600" height="100%">
+</p>
+
+6. As a new user of this website, I want to meet the team
+    - the user can meet our team on the "Meet our team" page. Where he can get more information about the staff and their education
+
+<p align="center">
+<img src="assets/images/images/meet-our-team.png" width="600" height="100%">
+</p>
+
+
+
+- As a user, I want to follow the salon on social media so I can keep up to date with the latest information
 
 
 
