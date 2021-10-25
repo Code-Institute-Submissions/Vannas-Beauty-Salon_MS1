@@ -187,7 +187,7 @@ The site is presented in a minimalist but effective way, providing all the infor
 - [jQuery](https://jquery.com/)- was used for a responsive navbar.
 - [Am I Responsive](http://ami.responsivedesign.is/) - to check if the site is responsive on different screen sizes.
 - [Responsive navbar and hamburger menu](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci) - this site is used to help me build a responsive navbar and hamburger menu
-
+- [IMG2GO](https://www.img2go.com/compress-image#j=f26cc008-23b4-4d4e-9934-96877fa9a7e7) and [Tiny PNG]{https://tinypng.com/} - this sites were used to help me compress the images 
 
 
 # Testing
