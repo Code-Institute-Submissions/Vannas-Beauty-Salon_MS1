@@ -191,9 +191,13 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 
 
-#Testing
+# Testing
 
-- Tested on Chrome, Opera
+- Tested on Chrome, Opera, Microsofte Edge and Firefox desktop version browsers
+- Chrome Developer Tools are used to test the responsiveness on: Desktop, Laptop, Moto G4, Galaxy S5, iPhone 5/SE, iPhone 6,7,8, iPhone 6,7,8 Plus, iPad, iPad Pro, Galaxy Fold 
+
+
+
 
 
 ## Validating 
@@ -218,11 +222,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 
 
 
-- Browsers
- -Lighthouse
+
 
 ## Bugs and Issues
-
 
 ### **HTML Validator** 
 
