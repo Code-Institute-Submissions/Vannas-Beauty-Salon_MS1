@@ -314,6 +314,7 @@ warning was fixed by removing th "p" element as a child of "h1" element. I creat
 warnign was fixed by removing the "br" as a child of "ul" element. 
 
 
+
 ### **CSS Validator** 
 
 - *Value Error* : font-weight 600px is not a font-weight value : 600px
