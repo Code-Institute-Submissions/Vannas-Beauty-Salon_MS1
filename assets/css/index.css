@@ -1203,7 +1203,9 @@ input[type=submit] {
 
 #contact-description {
     width: fit-content; 
+   width: 80%;
 }
+
 
 .form-control {
     width: 80%;
