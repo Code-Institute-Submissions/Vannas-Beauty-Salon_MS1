@@ -4,7 +4,13 @@ Vanna's Beauty Salon is a beauty salon that provides quality and professional se
  Clients can enjoy the family atmosphere and professionalism while relaxing in the time they have decided to give themselves. 
 
 
-You can view the deployed website here
+You can view the deployed website [here](https://irissmok.github.io/Vanna-s-Beauty-Salon_MS1/)
+
+
+
+<p align="center">
+<img src="assets/images/responsive-site.png" width="100%" height="100%">
+</p>
 
 
 #
@@ -338,6 +344,8 @@ warning was fixed by removing the incorrect CSS rule
 
 
 
-## Deployment
+# Deployment
+
+
 
 ## Credits
