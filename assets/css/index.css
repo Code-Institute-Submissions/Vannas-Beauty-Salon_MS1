@@ -554,6 +554,7 @@ strong {
      width: 25%;
      height: 60%;
      margin-right: 20%;
+     text-align: justify;
  }
 
  .text h3 {
@@ -962,8 +963,8 @@ input[type=submit] {
 @media screen and (max-width: 950px) {
 
 body {
-    margin-left: 1%;
-    margin-right: 1%;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 
 #about-us div {
@@ -1002,8 +1003,8 @@ input[type=submit] {
 {
 
  body {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 3%;
+    margin-right: 3%;
  }
 
 }
