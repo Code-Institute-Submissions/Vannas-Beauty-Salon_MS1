@@ -1,4 +1,4 @@
-# Vanna's Beuty Salon
+# Vanna's Beauty Salon
 
 Vanna's Beauty Salon is a beauty salon that provides quality and professional services. The focus of this project is to bring their services closer to potential customers.
  Clients can enjoy the family atmosphere and professionalism while relaxing in the time they have decided to give themselves. 
@@ -383,7 +383,7 @@ warning was fixed by removing the incorrect CSS rule
 
 ## Acknowledgements
 
-- Thanks to my mentorf for helpful feedback
-- Slack community for answering all my questions 
+- Thanks to my mentor Moosa Hasan for helpful feedback
+- Slack community for answering all my questions and 
 - Big tnaks to my husband Mislav for helping me test the website
 
