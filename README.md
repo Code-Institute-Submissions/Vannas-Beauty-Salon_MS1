@@ -384,5 +384,7 @@ warning was fixed by removing the incorrect CSS rule
 
 ## Acknowledgements
 
-- I was inspired to do this project for my sister Ivana. I want to encourage her to open her own salon.I was inspired to 
+- Thanks to my mentorf for helpful feedback
+- Slack community for answering all my questions 
+- Big tnaks to my husband Mislav for helping me test the website
 
