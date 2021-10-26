@@ -1003,8 +1003,8 @@ input[type=submit] {
 {
 
  body {
-    margin-left: 3%;
-    margin-right: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
  }
 
 }
@@ -1200,6 +1200,10 @@ input[type=submit] {
 #portrait-one, #portrait-two, #portrait-three, #portrait-four{
     width: 200px;
     height: 300px;
+}
+
+.text {
+    margin-left: 0;
 }
 
 /* --------------------- Contact Us  ----------- */
