@@ -346,6 +346,8 @@ warning was fixed by removing the incorrect CSS rule
 
 # Deployment
 
+## Github Pages
+
 
 
 ## Credits
