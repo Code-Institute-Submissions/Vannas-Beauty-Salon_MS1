@@ -1088,6 +1088,8 @@ input[type=submit] {
  #about-us div{
      width: unset;
      overflow: hidden;
+     margin-right: 4%;
+     margin-left: 4%;
  }
 
 #about-us h2 {
@@ -1114,7 +1116,8 @@ input[type=submit] {
 }
 
 #reviews div {
-    width:90%
+    width:90%;
+    margin-bottom: 30px;
 }
 
 #contact {
