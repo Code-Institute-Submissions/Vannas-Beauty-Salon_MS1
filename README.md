@@ -230,21 +230,20 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 1.  As a new user of this website, I want to know the purpose of the site and how to easily navigate through the website
     -  navigation is located on each page so that the user can easily and simply navigate the page and find all the necessary information
 
-
-### *Desktop,Laptop View*
+ *Desktop,Laptop View*
 
 <p align="center">
 <img src="assets/images/images/logo-navbar.png" width="700" height="100%">
 </p>
         
 
-### *Tablet View* 
+ *Tablet View* 
 
 <p align="center">
 <img src="assets/images/images/ipad-navbar.png" width="500" height="100%">
 </p>
 
-### *Phone View*
+ *Phone View*
 
 <p align="center">
 <img src="assets/images/images/logo-navbar-phone.png" width="300" height="100%">
