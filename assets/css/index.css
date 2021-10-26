@@ -581,7 +581,7 @@ strong {
 #gallery-title-outer {
     float: left;
     margin-bottom: 70px;
-    margin-top: 10%;  
+    margin-top: 7%;  
    width: 100%;
 }
 
@@ -597,15 +597,6 @@ strong {
     color: #252525;
 }
 
-.gray-line {
-    width: 20%;
-    margin: 0 auto;
-    height: 2px;
-    border: 0;
-    background-color: #3a3a3a;
-    text-align: center;
-    margin-bottom: 30px;
-}
 
 #gallery-title-outer > p  {
     float: left;
