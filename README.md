@@ -9,7 +9,7 @@ You can view the deployed website [here](https://irissmok.github.io/Vannas-Beaut
 
 
 <p align="center">
-<img src="assets/images/responsive-site.png" width="100%" height="100%">
+<img src="assets/images/images/responsive-site.png" width="100%" height="100%">
 </p>
 
 
