@@ -346,6 +346,15 @@ warning was fixed by removing the incorrect CSS rule
 
 # Deployment
 
+1. Log into GitHub and locate the repository.
+2. At the top locate the settings option 
+3. Locate GitHub Pages options at the bottom of the page.
+4. Click on the link "Check it out here!"
+4. In 'Source' dropdown, select 'Master' from the branch options.
+Click the save button.
+The site is now published though it may not be accesible straight away.
+The site URL will be visable on the green bar under the section header. This will remain there permanently and you can refer back to it at any time.
+
 ## Github Pages
 
 
