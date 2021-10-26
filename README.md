@@ -16,7 +16,7 @@ You can view the deployed website [here](https://irissmok.github.io/Vanna-s-Beau
 #
 ## UX
 
-The site is presented in a minimalist but effective way, providing all the information the user needs. In general, users can find out more about Vanna's Beauty Salon, its team, services and how to contact them, there is also a gallery where users can find inspiration in nail design.
+The site is presented in a minimalist but effective way, providing all the information the user needs. In general, users can find out more about Vanna's Beauty Salon, its team, services, and how to contact them, there is also a gallery where users can find inspiration in nail design.
 
 
 
@@ -24,7 +24,7 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 - As a new user of this website, I want to know the purpose of the site and how to easily navigate through the website
 - As a new user of this website, I want to find the services you provide, quickly and easily
-- As a new user of this website, I want to quickly and easyily find the price list of your services
+- As a new user of this website, I want to quickly and easily find the price list of your services
 - As a new user of this website, I want to see the experience of other clients
 - As a new user of this website, I want to see pictures of your work
 - As a new user of this website, I want to easily find a way to contact you 
@@ -54,7 +54,7 @@ The site is presented in a minimalist but effective way, providing all the infor
 ## Structure
 
 - *Header*  
-    - Salon logo positioned left, the navigation bar on the right
+    - Salon logo is positioned left, the navigation bar on the right
     - Appears on every page
 
 - *Navbar*
@@ -192,18 +192,18 @@ The site is presented in a minimalist but effective way, providing all the infor
 - [Google map generator](https://google-map-generator.com/) - was used to import business location.
 - [jQuery](https://jquery.com/)- was used for a responsive navbar.
 - [Am I Responsive](http://ami.responsivedesign.is/) - to check if the site is responsive on different screen sizes.
-- [Responsive navbar and hamburger menu](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci) - this site is used to help me build a responsive navbar and hamburger menu
-- [IMG2GO](https://www.img2go.com/compress-image#j=f26cc008-23b4-4d4e-9934-96877fa9a7e7) and [Tiny PNG]{https://tinypng.com/} - this sites were used to help me compress the images 
+
+- [IMG2GO](https://www.img2go.com/compress-image#j=f26cc008-23b4-4d4e-9934-96877fa9a7e7) and [Tiny PNG]{https://tinypng.com/} - these sites were used to help me compress the images 
 
 
 # Testing
 
-- Tested on Chrome, Opera, Microsofte Edge and Firefox desktop version browsers
+- Tested on Chrome, Opera, Microsoft Edge and Firefox desktop version browsers
 - Chrome Developer Tools are used to test the responsiveness on: Desktop, Laptop, Moto G4, Galaxy S5, iPhone 5/SE, iPhone 6,7,8, iPhone 6,7,8 Plus, iPad, iPad Pro, Galaxy Fold 
 
 ## Validating 
 
-The W3C Markup Validator and W3C CSS Validator Services were used to check my code for syntax errors in thisproject. 
+The W3C Markup Validator and W3C CSS Validator Services were used to check my code for syntax errors in this project. 
 
 - [HTML](https://validator.w3.org/)
 
@@ -279,7 +279,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 
 
 5. As a new user of this website, I want to easily find a way to contact you 
-    - the user can find the contact information on the first page under "Contact" section. But it can also open the "Contact Us" page where there is a contact form where each user can fill out a form and send an inquiry to a beautician
+    - the user can find the contact information on the first page under the"Contact" section. But it can also open the "Contact Us" page where there is a contact form where each user can fill out a form and send an inquiry to a beautician
 
 <p align="center">
 <img src="assets/images/images/contact-section2.png" width="700" height="100%">
@@ -299,7 +299,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 
 7. As a user, I want to follow the salon on social media so I can keep up to date with the latest information
 
-    - on each page there is a footer with social links. At any time, the user can click on the icon that takes him to the social media site of the salon where he can follow the latest information at any time
+    - on each page, there is a footer with social links. At any time, the user can click on the icon that takes him to the social media site of the salon where he can follow the latest information at any time
 
 <p align="center">
 <img src="assets/images/images/footer.png" width="600" height="100%">
@@ -312,7 +312,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 
 - *Warning* : Element “p” not allowed as child of element “h1” in this context
  
-warning was fixed by removing th "p" element as a child of "h1" element. I created a "ul" and nested "h1" elementand "p" element inside the "li" element. 
+warning was fixed by removing th "p" element as a child of "h1" element. I created a "ul" and nested "h1" element and "p" element inside the "li" element. 
 
 
  - *Warning* : Element “br” not allowed as child of element “ul” in this context.
@@ -346,19 +346,43 @@ warning was fixed by removing the incorrect CSS rule
 
 # Deployment
 
+
+## GitHub Pages
 1. Log into GitHub and locate the repository.
 2. At the top locate the settings option 
-3. Locate GitHub Pages options at the bottom of the page.
+3. Scroll towards  the bottom of the page and locate GitHub Pages 
 4. Click on the link "Check it out here!"
-4. In 'Source' dropdown, select 'Master' from the branch options.
-Click the save button.
-The site is now published though it may not be accesible straight away.
-The site URL will be visable on the green bar under the section header. This will remain there permanently and you can refer back to it at any time.
+4. Under 'Source' dropdown, click 'Master' from the options.
+5. Click the save button.
+6. The site is now published, it may not be available immediately. 
+7. The site URL is visible on the green bar under the "Github Pages".
 
-## Github Pages
+## Github Clone 
+
+1. First you need to install the GitPod Browser Extension.
+2. Log into GitHub and locate the repository.
+3. Click the green "Gitpod" button just below the Settings.
+4. Now you created a new Gitpod workspace from the code in Github
 
 
 
 
 
-## Credits
+
+# Credits
+
+## Content
+
+- All content was written by Iris Smok
+- The structure of the gallery page is similar to the "Love Running" gallery page. I customized the design to fit my website.
+
+- [Responsive navbar and hamburger menu](https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci) - this site is used to help me build a responsive navbar and hamburger menu
+
+## Media
+
+- All images were taken from  [Shutterstock](https://www.shutterstock.com/home) and [Unsplash photo](https://unsplash.com/) 
+
+## Acknowledgements
+
+- I was inspired to do this project for my sister Ivana. I want to encourage her to open her own salon.I was inspired to 
+
