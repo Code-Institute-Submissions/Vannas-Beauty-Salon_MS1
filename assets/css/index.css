@@ -971,6 +971,12 @@ body {
     width: 90%;
 }
 
+.padding-top-contact {
+    margin-top: 5px;
+
+}
+
+
 #contact-img-outer {
     display: none;
 }
