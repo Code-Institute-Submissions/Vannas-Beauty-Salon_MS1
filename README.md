@@ -356,6 +356,118 @@ warning was fixed by removing the incorrect CSS rule
  ### _Home Page_
 
 
+<p align="center">
+<img src="assets/images/readme/desktop-home-page.png" width="600" height="100%">
+</p>
+
+<p align="center">
+<img src="assets/images/readme/desktop-home-page2.png" width="600" height="100%">
+</p>
+
+ ### _Services & Prices_
+
+<p align="center">
+<img src="assets/images/readme/desktop-prices.png" width="600" height="100%">
+</p>
+
+### _Our Team_
+<p align="center">
+<img src="assets/images/readme/desktop-team.png" width="600" height="100%">
+</p>
+<p align="center">
+<img src="assets/images/readme/desktop-team2.png" width="600" height="100%">
+</p>
+
+
+### _Gallery_
+
+<p align="center">
+<img src="assets/images/readme/desktop-gallery.png" width="600" height="100%">
+</p>
+
+### _Contact Us_
+
+<p align="center">
+<img src="assets/images/readme/desktop-contact.png" width="600" height="100%">
+</p>
+<p align="center">
+<img src="assets/images/readme/desktop-contact2.png" width="600" height="100%">
+</p>
+
+
+## Tablet View 
+ 
+ ### _Home Page_
+
+
+<p align="center">
+<img src="assets/images/readme/tablet-home-page.png" width="600" height="100%">
+</p>
+
+
+
+ ### _Services & Prices_
+
+<p align="center">
+<img src="assets/images/readme/tablet-prices.png" width="600" height="100%">
+</p>
+
+### _Our Team_
+<p align="center">
+<img src="assets/images/readme/tablet-team.png" width="600" height="100%">
+</p>
+
+
+### _Gallery_
+
+<p align="center">
+<img src="assets/images/readme/tablet-gallery.png" width="600" height="100%">
+</p>
+
+### _Contact Us_
+
+<p align="center">
+<img src="assets/images/readme/tablet-contact.png" width="600" height="100%">
+</p>
+
+## Mobile View 
+ 
+ ### _Home Page_
+
+
+<p align="center">
+<img src="assets/images/readme/mobile-home-page.png" width="600" height="100%">
+</p>
+
+
+
+ ### _Services & Prices_
+
+<p align="center">
+<img src="assets/images/readme/mobile-prices.png" width="600" height="100%">
+</p>
+
+### _Our Team_
+<p align="center">
+<img src="assets/images/readme/mobile-team.png" width="600" height="100%">
+</p>
+
+
+### _Gallery_
+
+<p align="center">
+<img src="assets/images/readme/mobile-gallery.png" width="600" height="100%">
+</p>
+
+### _Contact Us_
+
+<p align="center">
+<img src="assets/images/readme/mobile-contact.png" width="600" height="100%">
+</p>
+
+
+
+
 
 
 
