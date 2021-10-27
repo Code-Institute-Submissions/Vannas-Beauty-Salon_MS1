@@ -315,6 +315,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 
 ## Bugs and Issues
 
+- I tested a page on my phone, the Samsung Galaxy S20 FE, with a black theme. When I open the page, I don’t see hamburger menu. The rest of the text of the page changes color to white, but the hamburger menu does not change its dark color and is therefore not noticeable, but it is still functional.
+
+<p align="center">
+<img src="assets/images/readme/hamburger-menu.jpg" width="300" height="100%">
+</p>
+
+
 ### **HTML Validator** 
 
 - *Warning* : Element “p” not allowed as child of element “h1” in this context
