@@ -44,6 +44,7 @@ The site is presented in a minimalist but effective way, providing all the infor
 - Easily visible salon contact infromation
 - Social links in the footer of each page so user can follow the salon via social networks and be up to date with the latest information
 
+
 ### Future Features
 
 - Online booking so that the client can quickly select the desired date from the calendar 
