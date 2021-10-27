@@ -1151,9 +1151,12 @@ input[type=submit] {
 
 
 #iframe-home-page {
-    width: 100%;
+    width: 99%;
     height: 200px;
+    margin-right: 0;
+    margin-bottom: 1px;
     margin-top: 0;
+    border: 2px solid #959191;
 }
 
 #footer div {
