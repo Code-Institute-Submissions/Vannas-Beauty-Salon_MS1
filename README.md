@@ -212,7 +212,7 @@ As the salon itself exudes calm and relaxation, I created the page in such a ton
 # Validating 
 The W3C Markup Validator and W3C CSS Validator Services were used to check my code for syntax errors in this project.
 
-- [HTML](https://validator.w3.org/)
+- [HTML](https://validator.w3.org/#validate_by_input)- I checked each page by direct input method on HTML validator site
 
 <p align="center">
 <img src="assets/images/readme/html-validator.png" width="400" height="100%">
