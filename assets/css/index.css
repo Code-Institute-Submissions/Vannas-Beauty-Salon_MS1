@@ -1165,7 +1165,9 @@ input[type=submit] {
 
 /* --------------------- Services & Prices ----------- */
 
-
+#body-image {
+    margin-top: 2%;
+}
 
 .treatment { margin-left: 0;
             width: 60%;     
