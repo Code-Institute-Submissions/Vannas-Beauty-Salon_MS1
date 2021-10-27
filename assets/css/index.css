@@ -1165,9 +1165,13 @@ input[type=submit] {
 
 /* --------------------- Services & Prices ----------- */
 
+
+
 .treatment { margin-left: 0;
             width: 60%;     
             font-size: 16px;  }
+
+
 
 #services-prices h3 {
     padding-bottom: 1%;
@@ -1232,3 +1236,17 @@ input[type=submit] {
 
 }
 
+@media screen and (max-width: 300px){
+
+#header h1 {
+    margin-left: 2px;
+}
+
+#nav {margin: 6% 2% 0% 0%;}
+
+#img-hidden, #body-image, #our-team-img {
+    margin-top: 5%;
+}
+
+ 
+}
