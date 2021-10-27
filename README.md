@@ -144,13 +144,14 @@ As the salon itself exudes calm and relaxation, I created the page in such a ton
 
 ## Chosens Color 
 
-- #3a3a3a the main color
-- #2a2a2a for all h2 headings and nav bar
-- rgba(237, 243, 210, 0.6) - background for Address and Opening Hours
-- rgb(157 157 45 / 43%) - background for Address and Opening Hours, for media query (max-width 550px)
-- rgba(79, 79, 82, 0.6) - for the Footer background
-- rgba(154, 175, 185, 0.7) - for the "Price List" background color
-- rgba(79, 79, 82) - for the Submit button
+- **#3a3a3a the main color** - I chose this color from the lesson "Love Running". I really liked how the text color looked on the page and I used it too
+- **#2a2a2a for all h2 headings and nav bar** - color from "Love Running" lesson, I liked how it looks on text. It's neiyher too dark nor too bright
+- **rgba(237, 243, 210, 0.6)** - background for Address and Opening Hours. 
+It blends perfectly with the look of the whole page and the background image. I wanted the color to match both the image of the head, in which yellow predominates, as well as the background image.
+- **rgb(157 157 45 / 43%)** - background for Address and Opening Hours, for media query (max-width 550px) - the background image disappears below 550px, so the background color itself is too pale without the image. I changed the color which gives a nice look to the other half of the pages, and fits nicely with the hero image
+- **rgba(79, 79, 82, 0.6)** - for the Footer background. I liked the color because it is neither too dark nor too bright. It does not spoil the look of the page. Since the footer will be on every page, I wanted to choose a color that blends nicely with all the colors
+- **rgba(154, 175, 185, 0.7)** - for the "Price List" background color. Blends nicely with the background image. The color is not intrusive, it is soothing like the whole page
+- **rgba(79, 79, 82)** - for the Submit button. Fits nicely with the footer. Color is not too pale or too dark yet it's noticeable
  
 
 ## Font 
