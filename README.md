@@ -8,7 +8,7 @@ You can view the deployed website [here](https://irissmok.github.io/Vannas-Beaut
 
 
 <p align="center">
-<img src="assets/images/images/responsive-site.png" width="600" height="100%">
+<img src="assets/images/readme/responsive-site.png" width="600" height="100%">
 </p>
 
 
@@ -44,7 +44,7 @@ The site is presented in a minimalist but effective way, providing all the infor
 - Easily visible salon contact infromation
 - Social links in the footer of each page so user can follow the salon via social networks and be up to date with the latest information
 
-## Future Features
+### Future Features
 
 - Online booking so that the client can quickly select the desired date from the calendar 
 
@@ -142,7 +142,7 @@ The site is presented in a minimalist but effective way, providing all the infor
 ## Design 
 As the salon itself exudes calm and relaxation, I created the page in such a tone. The background colors I used are bright and soothing, and the images are bright and colorful. The goal was to bring the user closer to the atmosphere of the salon.
 
-### Choes Color 
+## Chosens Color 
 
 - #3a3a3a the main color
 - #2a2a2a for all h2 headings and nav bar
@@ -159,7 +159,7 @@ As the salon itself exudes calm and relaxation, I created the page in such a ton
 - Lato - for all h2 and h3 headings
 
 
-### Media
+## Media
 
 **Hero image** - is designed in bright and strong colors to grab the user's attention and elevate the overall look of the page
 
@@ -176,12 +176,12 @@ As the salon itself exudes calm and relaxation, I created the page in such a ton
 
 # Technologies Used
 
-### Languages 
+## Languages 
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
-### Frameworks, Libraries & Programs Used
+## Frameworks, Libraries & Programs Used
 
 - [Google Fonts](https://fonts.google.com/https://fonts.google.com/) - provide all of the fonts for this website.
 
@@ -215,18 +215,18 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 - [HTML](https://validator.w3.org/)
 
 <p align="center">
-<img src="assets/images/images/html-validator.png" width="400" height="100%">
+<img src="assets/images/readme/html-validator.png" width="400" height="100%">
 </p>
 
 - [CSS](https://jigsaw.w3.org/css-validator/)
 
 <p align="center">
-<img src="assets/images/images/css-validator.png" width="400" height="100%">
+<img src="assets/images/readme/css-validator.png" width="400" height="100%">
 </p>
 
 - I used Lighthouse tools to test my website
 <p align="center">
-<img src="assets/images/images/lighthouse.png" width="400" height="100%">
+<img src="assets/images/readme/lighthouse.png" width="400" height="100%">
 </p>
 
 ## User Story Testing
@@ -239,20 +239,20 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
  *Desktop,Laptop View*
 
 <p align="center">
-<img src="assets/images/images/logo-navbar.png" width="700" height="100%">
+<img src="assets/images/readme/logo-navbar.png" width="700" height="100%">
 </p>
         
 
  *Tablet View* 
 
 <p align="center">
-<img src="assets/images/images/ipad-navbar.png" width="500" height="100%">
+<img src="assets/images/readme/ipad-navbar.png" width="500" height="100%">
 </p>
 
  *Phone View*
 
 <p align="center">
-<img src="assets/images/images/logo-navbar-phone.png" width="300" height="100%">
+<img src="assets/images/readme/logo-navbar-phone.png" width="300" height="100%">
 </p>
 
 
@@ -261,7 +261,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
     - the user can easily find a price list that is readable and clear
 
 <p align="center">
-<img src="assets/images/images/price-list.png" width="600" height="100%">
+<img src="assets/images/readme/price-list.png" width="600" height="100%">
 </p>
 
 3. As a new user of this website, I want to see the experience of other clients
@@ -269,7 +269,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
     - testimonials are placed on the first page so that they are easily noticeable
 
 <p align="center">
-<img src="assets/images/images/reviews.png" width="600" height="100%">
+<img src="assets/images/readme/reviews.png" width="600" height="100%">
 </p>
 
 
@@ -278,7 +278,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
     - the gallery provides the user with an insight into the quality and inspiring work of the salon
 
 <p align="center">
-<img src="assets/images/images/gallery.png" width="600" height="100%">
+<img src="assets/images/readme/gallery.png" width="600" height="100%">
 </p>
   
 
@@ -287,18 +287,18 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
     - the user can find the contact information on the first page under the"Contact" section. But it can also open the "Contact Us" page where there is a contact form where each user can fill out a form and send an inquiry to a beautician
 
 <p align="center">
-<img src="assets/images/images/contact-section2.png" width="700" height="100%">
+<img src="assets/images/readme/contact-section2.png" width="700" height="100%">
 </p>
 
 <p align="center">
-<img src="assets/images/images/contact-form.png" width="600" height="100%">
+<img src="assets/images/readme/contact-form.png" width="600" height="100%">
 </p>
 
 6. As a new user of this website, I want to meet the team
     - the user can meet our team on the "Meet our team" page. Where he can get more information about the staff and their education
 
 <p align="center">
-<img src="assets/images/images/meet-our-team.png" width="600" height="100%">
+<img src="assets/images/readme/meet-our-team.png" width="600" height="100%">
 </p>
 
 
@@ -307,7 +307,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
     - on each page, there is a footer with social links. At any time, the user can click on the icon that takes him to the social media site of the salon where he can follow the latest information at any time
 
 <p align="center">
-<img src="assets/images/images/footer.png" width="600" height="100%">
+<img src="assets/images/readme/footer.png" width="600" height="100%">
 </p>
 
 
@@ -352,6 +352,9 @@ warning was fixed by removing the incorrect CSS rule
 # Final Product 
 
 ## Desktop View 
+ 
+ ### _Home Page_
+
 
 
 
