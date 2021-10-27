@@ -46,27 +46,27 @@ The site is presented in a minimalist but effective way, providing all the infor
 #
 # Structure
 
-- Header  
+- **Header**  
     - Salon logo positioned left, navigation bar on the right
     - Appears on every page
 
-- Nav bar
+- **Nav bar**
     - Appers on every page so users can esily navigate throught the site
 
-- Footer
+- **Footer**
     - Appears on every page with a contact information and social links
 
- - Home Page
-    - Hero image - appears at the top of the home page, located below the header section, contains striking colors that elevate the look of the page
-    - About Us - located below the Hero image, allows users to get more informations about the salon
-    - Testimonials - just below the "About Us" section, grouped horizontally, next to each other, for screens smaller than 1200px they are grouped vertically. Allow potential client to see the reviews from current/previous clients, which will help them trust the services offered by the salon
-    - Contact Us - provides information about salon opening hours, phone number, email address and a link that leads the user to "Contact Us" page where the user can fill out a form to get in touch with any inquiries they may have
+ - **Home Page**
+    - *Hero image* - appears at the top of the home page, located below the header section, contains striking colors that elevate the look of the page
+    - *About Us* - located below the Hero image, allows users to get more informations about the salon
+    - *Testimonials* - just below the "About Us" section, grouped horizontally, next to each other, for screens smaller than 1200px they are grouped vertically. Allow potential client to see the reviews from current/previous clients, which will help them trust the services offered by the salon
+    - *Contact Us* - provides information about salon opening hours, phone number, email address and a link that leads the user to "Contact Us" page where the user can fill out a form to get in touch with any inquiries they may have
     
--  Services & Prices - allows the user to find out the services and their prices offered by the salon
+-  **Services & Prices** - allows the user to find out the services and their prices offered by the salon
 
-- Our Team - allows the user to get to know the salon team
+- **Our Team** - allows the user to get to know the salon team
 
-- Gallery - allows the the user to see images of the the nail design and perhaps get inspired. 
+- **Gallery** - allows the the user to see images of the the nail design and perhaps get inspired. 
 
 #
 # Wireframes
