@@ -19,14 +19,14 @@ body {
      margin-top: 1%;
      display: flex;
      flex-direction: column;}
-     
 
-      .content {
+
+    .content {
           flex: 1;
       }
 
 
-/* heading and nav */
+/* HEADING AND NAV */
 
 #header #nav {
     flex-basis: 0;
@@ -127,25 +127,26 @@ body {
     top: 70px;
     border-top: 1px solid #3a3a3a;
     margin-right: 2em;
-    
-    
-    
 }
 
-/* hero image */
+
+
+/* HERO IMAGE*/
 
 #hero-outer{
     width: 100%;
     overflow: hidden;
-    
 }
+
 
 .hero-img {
     width: 100%;
     margin-top: 2%;
 }
 
-/* About Us */
+
+
+/* ABOUT US */
 
 #about-us {
     margin-top: 8%;
@@ -158,8 +159,8 @@ body {
     display: inline-block;
     border: 1px solid #252525;
     border-radius: 10px;
-
 }
+
 
 #about-us h2 {
     text-align: center;
@@ -168,34 +169,33 @@ body {
     color: #252525;
     padding-top: 20px;
     padding-bottom: 20px;
-    
 }
+
 
 .about {
     text-align: center;
     padding: 0px 50px 30px 50px;
     letter-spacing: 1px;
-   
 }
 
-/* Reviews */
+
+/* REVIEWS */
 
 #reviews {
     float: left;
     margin-top: 8%;
     margin-bottom: 50px;
     margin-left: 15%;
-    
-
 }
+
 
 #reviews div {
     width: 20%;
     float: left;
     text-align: center;
-    padding: 3%;
-       
+    padding: 3%; 
 }
+
 
 #reviews p {
     margin-top: 20px;
@@ -204,7 +204,7 @@ body {
 
 
 
-/* Contact - Home Page */
+/* CONTACT SECTION - HOME PAGE*/
 
 #contact h2 {
     float: left;
@@ -215,7 +215,6 @@ body {
     font-size: 25px;
     font-style: italic;
     text-transform: uppercase;
-    
 }
 
 
@@ -230,8 +229,8 @@ body {
     background-position: center;
     width: 100%;
     overflow: hidden;
-    
 }
+
 
 .address, .working-hours {
     background-color: rgba(237, 243, 210, 0.6);
@@ -248,12 +247,13 @@ body {
 
 .address p {
     padding-bottom: 5px;
-
 }
+
 
 .padding-top-contact {
     margin-top: 20px;
 }
+
 
 .working-hours h3 {
     text-align: center;
@@ -261,20 +261,20 @@ body {
     font-family:Oswald,sans-serif;
     font-weight: 500;
     font-style: italic;
-   
 }
+
 
 .working-hours{
     margin-left: 2.3%;
     text-align: center;
 }
 
-    #iframe-home-page {
-        float: right;
-        width: 30%;
-        height: 300px;
-        margin: 20px 1%;
-    }
+#iframe-home-page {
+    float: right;
+     width: 30%;
+     height: 300px;
+     margin: 20px 1%;
+}
 
     
 .working-hours ul {
@@ -303,7 +303,7 @@ body {
 
 
 
-/* Footer */
+/* FOOTER */
 
 footer {
     float: left;
@@ -337,7 +337,6 @@ footer {
     color: #3a3a3a;
     margin: 1.5% 2%;
     padding: 1% 0.5%;
-
 }
 
 .social-media a {
@@ -345,7 +344,7 @@ footer {
 }
 
 
-/* Services & Prices */
+/* SERVICES & PRICES */
 
 #body-image {
     float: left;
@@ -375,7 +374,6 @@ footer {
     padding-top: 5%;
     font-family:Lato,sans-serif;
     font-size: 25px;
-    
 }
 
 
@@ -389,6 +387,7 @@ footer {
     margin-bottom:50px;
     text-align: center;
 }
+
 
 strong {
     font-size: 15px;
@@ -414,7 +413,7 @@ strong {
 .price { float: right;
     padding:10px;
     font-size:18px;
-     }
+}
 
 
 #facial ul { list-style-type: none;}
@@ -447,13 +446,12 @@ strong {
   float:left;
   width: 100%;
   border-bottom: 1px solid gray;
-    
 }
 
 
 
 
-/* Meet Our Team Page*/
+/* MEET OUR TEAM PAGE */
 
 #our-team-img-outer {
         width: 100%;
@@ -473,7 +471,7 @@ strong {
    #our-team-section {
     float: left;
     width: 100%;
-   }
+}
 
 #our-team-title h2 {
     font-family:Lato,sans-serif;
@@ -484,14 +482,12 @@ strong {
     text-align: center;
     letter-spacing: 1px;
     color: #252525;
-   
 }
 
 #our-team-title {
     float: left;
     margin: 60px 0% 50px 0%;
     width: 100%;
-    
 }
 
   .salon-team {
@@ -562,10 +558,12 @@ strong {
      font-family:Lato,sans-serif;
      text-transform: uppercase;
     font-size: 27px;
-    
  }
 
- /* Gallery */
+
+
+ /* GALLERY */
+
  #photos {
     clear: both;
     line-height: 0;
@@ -576,8 +574,6 @@ strong {
 
 #photos >img {
     width: 100%;
-   
-  
 }
 
 
@@ -607,11 +603,11 @@ strong {
     text-align: center;
     font-style: italic;
     margin-top: 30px;
-    
 }
 
 
-/* Contact Us Page */
+/* CONTACT US PAGE */
+
 #contact-img-outer {
     height: 300px;
     width: 100%;
@@ -746,9 +742,7 @@ height: 300px;
 
 
 
-/* Form */
-
-
+/* FORM */
 
 #form h3 {
     width: 100%;
@@ -756,7 +750,6 @@ height: 300px;
     margin-top: 10%;
     font-family:Lato,sans-serif;
     font-size: 30px;
-    
 }
 
 #form p {
@@ -770,7 +763,6 @@ height: 300px;
     float: left;
     width: 100%;
     margin-bottom: 50px;
-
 }
 
 
@@ -785,20 +777,18 @@ height: 300px;
     line-height: 1.5em;
     margin-top: 10px;
     font-size: 1rem;
-   
-    
-   
-    
     }
 
+
  input[type=submit] {
-     width: 20%;
-        background-color:  rgba(79, 79, 82);
-        border: none;
-        color: white;
-        padding: 16px 32px;
-        text-decoration: none;
-        cursor: pointer; }
+    width: 20%;
+    background-color:  rgba(79, 79, 82);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    cursor: pointer; 
+    }
 
 input:focus {
     outline: none !important;
@@ -815,68 +805,77 @@ textarea:focus{
 
 
 
-/* Media queries */
+                  /******************************* MEDIA QUERIES ********************/
 
 @media screen and (max-width: 1200px) {
 
-/*Home Page*/
+/* HOME PAGE */
 
 
-    #hr {
-        left: 0;
-        margin-right: 0;}
+#hr {
+    left: 0;
+    margin-right: 0;
+}
 
-    #nav {
-        font-size: 105%;
-        line-height: 25px;
-        width: 100%;
-        border-bottom: 1px solid #3a3a3a;
-        padding-bottom: 15px;
+#nav {
+    font-size: 105%;
+    line-height: 25px;
+    width: 100%;
+    border-bottom: 1px solid #3a3a3a;
+    padding-bottom: 15px;
     }
 
-    #nav ul {
-        margin-bottom: 10px;
-        margin-top: 10px;
-        margin-left: 30px;
+#nav ul {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 30px;
     }
 
-    #nav li {margin-right: 17px;
-    float: left;}
+#nav li {
+    margin-right: 17px;
+    float: left;
+}
     
     
-    #reviews {
-        margin-left: 0;
-        margin-bottom: 0;
-        margin-left: 3%;
+#reviews {
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-left: 3%;
     }
 
- #reviews div {
+#reviews div {
      width: 90%;
      margin-bottom: 60px;
  }
 
 
-    .address, .working-hours {
-        width: 50%;
-        height: 210px;
-        padding: 10px 0px 0px 0px;
-        margin: 1%;
+.address, .working-hours {
+    width: 50%;
+    height: 210px;
+    padding: 10px 0px 0px 0px;
+    margin: 1%;
     }
 
-    .working-hours ul {padding:20px 3% 20px 3%;}
+.working-hours ul {
+    padding:20px 3% 20px 3%;
+}
 
 
-    #iframe-home-page {
-        width: 45%;
-        height: 400px;
-        margin: 0;
-        margin-top: -225px;
-        margin-right: 1%;
+#iframe-home-page {
+    width: 45%;
+    height: 400px;
+    margin: 0;
+    margin-top: -225px;
+    margin-right: 1%;
     }
 
-#footer {height: 100%;}
+#footer {
+    height: 100%;
+}
 
-#footer i { font-size: 140%;}
+#footer i { 
+    font-size: 140%;
+}
 
 #footer div {
     font-size: 16px;
@@ -886,30 +885,31 @@ textarea:focus{
     height: 20%;
 }
 
-.envelope-icon {width: 100%;}
+.envelope-icon {
+    width: 100%;
+}
 
-.phone-icon{width: 80%;}
+.phone-icon{
+    width: 80%;
+}
 
 .social-media {
     float: right;
     width: 20%;
 }
 
-/*Services & Prices*/
+/* SERVICES & PRICES */
 
 #services-prices { margin: 0% 0%;}
 
-/* Meet Our Team */
+/* MEET OUR TEAM */
 
 #our-team-img {
     height: 300px;
 }
+
 #our-team-img-outer {
     height: 300px;
-}
-
-.gray-line {
-    width: 40%;
 }
 
 #portrait-one, #portrait-two, #portrait-three, #portrait-four {
@@ -927,23 +927,29 @@ textarea:focus{
 .portrait {
     margin-left: 0;
 }
-/* Contact Us Page */
 
-#iframe-contact-page {width: 90%;}
+
+/* CONTACT US  */
+
+#iframe-contact-page {
+    width: 90%;
+}
 
 #contact-description {
-     width: 50%;
+    width: 50%;
     margin-left: 10%;
     margin-top: 8%;
 }
 
-.form-control {width: 40%;}
+.form-control {
+    width: 40%;
+}
 
 input[type=submit] {
     width: 30%;
 }
 
-/* Gallery */
+/* GALLERY*/
 
 #photos {
     column-count: 2;
@@ -952,7 +958,7 @@ input[type=submit] {
 }
  
 
-/* Media Queries for 950px */
+/* MEDIA QUERIES FOR MAX-WIDTH 950PX */
 
 @media screen and (max-width: 950px) {
 
@@ -965,14 +971,9 @@ body {
     width: 90%;
 }
 
-
-
-
 .padding-top-contact {
     margin-top: 5px;
-
 }
-
 
 #contact-img-outer {
     display: none;
@@ -992,6 +993,7 @@ body {
 #form p {
     font-size: 17px;
 }
+
 .form-control { width: 50%;
 }
 
@@ -1001,6 +1003,7 @@ input[type=submit] {
 
 }
 
+/* MEDIA QUERIES FOR MAX-WIDTH 600PX */
 
 @media screen and (max-width: 600px) 
 {
@@ -1013,55 +1016,57 @@ input[type=submit] {
 }
 
 
+/* MEDIA QUERIES FOR MAX-WIDTH 550PX */
 
 @media screen and (max-width: 550px){
 
 
-/*  ---------------------- Home Page ---------- */
-    #nav {
-        float: right;
-        font-size: 100%;
-        margin: 6% 3% 0% 3%;
-        margin-top: 6%;
-        border-bottom: none;
-        clear: none;
-        width: 10%;
-        flex-basis: 100%;
-     align-items: center;
+/*  HOME PAGE */
+
+#nav {
+    float: right;
+    font-size: 100%;
+    margin: 6% 3% 0% 3%;
+    margin-top: 6%;
+    border-bottom: none;
+    clear: none;
+    width: 10%;
+    flex-basis: 100%;
+    align-items: center;
     }
 
-    .nav-menu {
-        position: fixed;
-        left: -100%;
-        top: 4rem;
-        flex-direction: column;
-        background-color: #fff;
-        width: 100%;
-        text-align: center;
-        transition: 0.3s;
-        border: none;
+.nav-menu {
+    position: fixed;
+    left: -100%;
+    top: 4rem;
+    flex-direction: column;
+    background-color: #fff;
+    width: 100%;
+    text-align: center;
+    transition: 0.3s;
+    border: none;
     }
 
-    .nav-menu.active {
-        left: 0;
+.nav-menu.active {
+    left: 0;
     }
 
-    #nav a {
-        font-size: 20px;
-        color: #2a2a2a;
-        font-family: Lato, sans-serif;
-        font-weight: 600;
+#nav a {
+    font-size: 20px;
+    color: #2a2a2a;
+    font-family: Lato, sans-serif;
+    font-weight: 600;
     }
 
-    .hamburger {
-        display: block;
-        cursor: pointer;
+.hamburger {
+    display: block;
+    cursor: pointer;
     }
 
-    #nav li {
-        width: 100%;
-        margin-bottom: 10px;
-        margin-top: 10px;
+#nav li {
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;
     }
 
 .nav-link {
@@ -1080,11 +1085,10 @@ input[type=submit] {
 }
 
 #header h1 {
-    margin-left: 10px;}
+    margin-left: 10px;
+}
     
- 
-
- #nav ul {
+#nav ul {
      margin-left: 0;
  }
 
@@ -1117,7 +1121,6 @@ input[type=submit] {
     height: 300px;
     width: 100%;
     margin-top: 2%;
-
 }
 
 #reviews div {
@@ -1147,7 +1150,6 @@ input[type=submit] {
 
 .address p {
     padding: 0 20px;
-    
 }
 
 .working-hours ul {
@@ -1169,10 +1171,7 @@ input[type=submit] {
     font-size: 15px;
 }
 
-/* --------------------- Services & Prices ----------- */
-
-
-
+/* SERVICES & PRICES*/
 
 #body-image {
     margin-top: 2%;
@@ -1180,9 +1179,8 @@ input[type=submit] {
 
 .treatment { margin-left: 0;
             width: 60%;     
-            font-size: 16px;  }
-
-   
+            font-size: 16px; 
+         }
 
 #services-prices h3 {
     padding-bottom: 1%;
@@ -1206,20 +1204,25 @@ input[type=submit] {
     width: 50%;
 }
 
-/* --------------------- Meet Our Team ----------- */
+/* MEET OUR TEAM */
 
-#our-team-title { margin: 0;}
+#our-team-title { 
+    margin: 0;
+}
 
 #our-team-title h2 {
     font-size: 30px;
     margin-top: 10%;
 }
 
-.text h3 { margin: 20px 0 20px 10px
+.text h3 {
+    margin: 20px 0 20px 10px
 
 }
 
-.gray-line {width: 80%;}
+.gray-line {
+    width: 80%;
+}
 
 #portrait-one, #portrait-two, #portrait-three, #portrait-four{
     width: 200px;
@@ -1231,7 +1234,7 @@ input[type=submit] {
     margin-left: 0%;
 }
 
-/* --------------------- Contact Us  ----------- */
+/* CONTACT US */
 
 
 #contact-description {
@@ -1248,11 +1251,14 @@ input[type=submit] {
     width: 60%;
 }
 
-#form p {width: 95%;}
+#form p {
+    width: 95%;
+}
 
 }
 
 
+/* MEDIA QUERIES FOR MAX-WIDTH 300PX */
 
 @media screen and (max-width: 300px){
 
