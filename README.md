@@ -169,13 +169,13 @@ It blends perfectly with the look of the whole page and the background image. I 
 
 **Contact section** - contains a background image that is soothing and mild. Not conspicuous, and yet does not make the page monotonous
 
-**Services & Prices** - contains a background image that is mild and blends nicely with the background color of services and prices
+**Services & Prices** - contains a background image that is mild and relaxing
 
-**Our Team** - contains an image just below the navigation. The photo shows a beautician doing a manicure for a customer. I chose this image because it shows a beautician in her work environment and blends nicely with the whole look of the page.
+**Our Team** - contains an image just below the header. The photo shows a beautician doing a manicure for a customer. I chose this image because it shows a beautician in her work environment and blends nicely with the whole look of the page.
 
 **Gallery** - contains nail design images so that the user can find the desired design if he needs inspiration. The gallery also helps promote the salon
 
-**Contact Us** - contains images just below the navigation. Images are placed horizontally. After 950 px they no longer appear on the page.
+**Contact Us** - contains images just below the header. Images are placed horizontally. After 950 px they no longer appear on the page.
 
 
 # Technologies Used
@@ -191,11 +191,10 @@ It blends perfectly with the look of the whole page and the background image. I 
 
 - [Font Awesome](https://fontawesome.com/) -was used for the site icos.
 
-- [Java srcipt](https://en.wikipedia.org/wiki/JavaScript) - used for the hamburger navigation and embedded Google Map.
-
+- [Java srcipt](https://en.wikipedia.org/wiki/JavaScript) - used for the hamburger navigation and icons
 - [Github](https://github.com/IrisSmok) - was used to store the project code.
 
-- [Gitpod](https://www.gitpod.io/) - was used to for coding.
+- [Gitpod](https://www.gitpod.io/) - was used for coding.
 
 - [Balsamiq](https://balsamiq.com/) - was used to create site wireframes.
 
@@ -208,6 +207,8 @@ It blends perfectly with the look of the whole page and the background image. I 
 - [Am I Responsive](http://ami.responsivedesign.is/) - to check if the site is responsive on different screen sizes.
 
 - [IMG2GO](https://www.img2go.com/compress-image#j=f26cc008-23b4-4d4e-9934-96877fa9a7e7) and [Tiny PNG](https://tinypng.com/) - these sites were used to help me compress the images
+
+- [Free Online HTML Formatter](https://www.freeformatter.com/html-formatter.html) - was used to correct indentation issues and get rid of too much whitespace
 
 # Testing
 - Tested on Chrome, Opera, Microsoft Edge and Firefox desktop version browsers
