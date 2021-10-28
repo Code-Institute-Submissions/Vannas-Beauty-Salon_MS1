@@ -963,6 +963,9 @@ body {
     width: 90%;
 }
 
+
+
+
 .padding-top-contact {
     margin-top: 5px;
 
@@ -1206,11 +1209,16 @@ input[type=submit] {
     margin-top: 10%;
 }
 
+.text h3 { margin: 20px 0 20px 10px
+
+}
+
 .gray-line {width: 80%;}
 
 #portrait-one, #portrait-two, #portrait-three, #portrait-four{
     width: 200px;
     height: 300px;
+    margin-left: 0;
 }
 
 .text {
