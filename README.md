@@ -72,9 +72,11 @@ The site is presented in a minimalist but effective way, providing all the infor
 
 - **Our Team** - allows the user to get to know the salon team
 
-- **Gallery** - allows the the user to see images of the the nail design and perhaps get inspired. 
+- **Gallery** - allows the user to see images of the the nail design and perhaps get inspired. 
 
-#
+- **Contact Us** - allows the user to contact the salon by form 
+
+
 # Wireframes
 
 
@@ -141,7 +143,7 @@ The site is presented in a minimalist but effective way, providing all the infor
 # Surface
 
 ## Design 
-As the salon itself exudes calm and relaxation, I created the page in such a tone. The background colors I used are bright and soothing, and the images are bright and colorful. The goal was to bring the user closer to the atmosphere of the salon.
+As the salon itself exudes calm and relaxation, I created the page in such a tone. The main background is white because it indicates a sterile, clean and bright space. Background colors I used are bright and soothing, and the images are bright and colorful. The goal was to bring the user closer to the atmosphere of the salon.
 
 ## Chosens Color 
 
