@@ -504,7 +504,7 @@ strong {
 
  .portrait {
      float: left;
-     margin-left: 5%;
+     margin-left: 10%;
      border: 1px solid rgb(189, 185, 185);
  }
 
@@ -550,10 +550,10 @@ strong {
 }
 
  .text {
-     float: right;
+     float: left;
      width: 25%;
      height: 60%;
-     margin-right: 20%;
+     margin-left: 20%;
      text-align: justify;
  }
 
@@ -920,11 +920,13 @@ textarea:focus{
 
 .text {
     width: 100%;
-    float: left;
-    margin-left: 5%;
+    margin-left: 0;
     margin-right: 0;
 }
 
+.portrait {
+    margin-left: 0;
+}
 /* Contact Us Page */
 
 #iframe-contact-page {width: 90%;}
@@ -1115,6 +1117,7 @@ input[type=submit] {
     height: 300px;
     width: 100%;
     margin-top: 2%;
+
 }
 
 #reviews div {
@@ -1168,6 +1171,9 @@ input[type=submit] {
 
 /* --------------------- Services & Prices ----------- */
 
+
+
+
 #body-image {
     margin-top: 2%;
 }
@@ -1176,7 +1182,7 @@ input[type=submit] {
             width: 60%;     
             font-size: 16px;  }
 
-
+   
 
 #services-prices h3 {
     padding-bottom: 1%;
@@ -1246,6 +1252,8 @@ input[type=submit] {
 
 }
 
+
+
 @media screen and (max-width: 300px){
 
 #header h1 {
@@ -1260,3 +1268,4 @@ input[type=submit] {
 
  
 }
+

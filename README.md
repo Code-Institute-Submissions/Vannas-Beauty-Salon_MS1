@@ -321,6 +321,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 <img src="assets/images/readme/hamburger-menu.jpg" width="300" height="100%">
 </p>
 
+- Design improvment- On the page "Price list & Services" I would like to improve the designe of price list. When the screen reaches a certen size ( Mobile view), the prcices of the treatments should be closer to bottom border. 
+I hope to solve this problem in the future.
+
+- For the Gallery Lighthouse report, I noticed that the report varies if I re-report the page. Lighthouse would jump from 85 to 93.
 
 ### **HTML Validator** 
 
