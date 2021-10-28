@@ -239,7 +239,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 ### **Testing Users Stories form (UX) Section**
 
 1.  As a new user of this website, I want to know the purpose of the site and how to easily navigate through the website
-    -  navigation is located on each page so that the user can easily and simply navigate the page and find all the necessary information
+    -  navigation is located on each page so that the user can easily and simply navigate through the page and find all the necessary information
 
  *Desktop,Laptop View*
 
@@ -289,7 +289,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 
 
 5. As a new user of this website, I want to easily find a way to contact you 
-    - the user can find the contact information on the first page under the"Contact" section. But it can also open the "Contact Us" page where there is a contact form where each user can fill out a form and send an inquiry to a beautician
+    - the user can find the contact information on the Home page under the "Contact" section. But it can also open the "Contact Us" page where there is a contact form where each user can fill out a form and send an inquiry to a beautician
 
 <p align="center">
 <img src="assets/images/readme/contact-section2.png" width="700" height="100%">
@@ -324,7 +324,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to check my co
 <img src="assets/images/readme/hamburger-menu.jpg" width="300" height="100%">
 </p>
 
-- Design improvment- On the page "Price list & Services" I would like to improve the designe of price list. When the screen reaches a certen size ( Mobile view), the prcices of the treatments should be closer to bottom border. 
+- Design improvment- On the page "Services & Prices" I would like to improve the price list design. When the screen reaches a certen size ( Mobile view), the prices of the treatments should be closer to bottom border. 
 I hope to solve this problem in the future.
 
 - For the Gallery Lighthouse report, I noticed that the report varies if I re-report the page. Lighthouse would jump from 85 to 93.
@@ -503,10 +503,6 @@ warning was fixed by removing the incorrect CSS rule
 4. Now you created a new Gitpod workspace from the code in Github
 
 
-
-
-
-
 # Credits
 
 ## Content
@@ -523,6 +519,6 @@ warning was fixed by removing the incorrect CSS rule
 ## Acknowledgements
 
 - Thanks to my mentor for helpful feedback
-- Slack community for answering all my questions and 
-- Big tnaks to my husband Mislav for helping me test the website
+- Slack community for answering all my questions 
+- Big thanks to my husband Mislav for helping me test the website
 
